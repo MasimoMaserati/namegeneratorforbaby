@@ -6,26 +6,25 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   
   <!-- PRIMARY SEO -->
-  <title>🎡 Random Names Wheel Generator | Free & Fun Decision Maker</title>
-  <meta name="description" content="Spin the wheel to pick a random name! Free, fun, and fair. Perfect for giveaways, games, classroom activities, and group decisions. No sign-up required." />
+  <title>🎡 Random Baby Name Generator | Free & Fun Decision Maker</title>
+  <meta name="description" content="Discover the perfect baby name with our free Baby Name Generator Wheel. Spin popular boy names, girl names, Irish, Japanese, Biblical, unique, and many more baby name lists." />
   <meta name="keywords" content="random name generator, name wheel, spin wheel, random picker, giveaway tool, classroom spinner, decision maker, lucky draw, name selector" />
-  <meta name="robots" content="index, follow" />
   <link rel="canonical" href="https://namegeneratorforbaby.com/" />
   
   <!-- OPEN GRAPH / SOCIAL SHARING -->
-  <meta property="og:title" content="Random Names Wheel Generator - Free & Fun Decision Maker" />
+  <meta property="og:title" content="Random Baby Name Generator - Free & Fun Decision Maker" />
   <meta property="og:description" content="Spin the wheel to pick a random name! Perfect for giveaways, games, and classroom fun. Free, fair, and totally random." />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://namegeneratorforbaby.com/" />
   <meta property="og:image" content="https://namegeneratorforbaby.com/og-image.jpg" />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
-  <meta property="og:site_name" content="Random Names Wheel Generator" />
+  <meta property="og:site_name" content="Random Baby Name Generator" />
   <meta property="og:locale" content="en_US" />
   
   <!-- TWITTER CARD -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Random Names Wheel Generator - Free & Fun Decision Maker" />
+  <meta name="twitter:title" content="Random Baby Name Generator - Free & Fun Decision Maker" />
   <meta name="twitter:description" content="Spin the wheel to pick a random name! Perfect for giveaways, games, and classroom fun." />
   <meta name="twitter:image" content="https://namegeneratorforbaby.com/og-image.jpg" />
   
@@ -34,7 +33,7 @@
   {
     "@context": "https://schema.org",
     "@type": "WebApplication",
-    "name": "Random Names Wheel Generator",
+    "name": "Random Baby Name Generator",
     "description": "Spin the wheel to pick a random name. Free, fair, and fun. Perfect for giveaways, games, and classroom decisions.",
     "url": "https://namegeneratorforbaby.com/",
     "applicationCategory": "Game",
@@ -47,7 +46,7 @@
     },
     "author": {
       "@type": "Organization",
-      "name": "Random Names Wheel Generator"
+      "name": "Random Baby Name Generator"
     }
   }
   </script>
@@ -399,31 +398,58 @@
     .entry-row button:hover { transform: scale(1.03); box-shadow: 0 6px 18px rgba(62, 199, 179, 0.4); }
 
     /* --- PRESET BUTTONS --- */
-    .preset-row {
-      display: flex;
-      gap: 10px;
-      margin-bottom: 16px;
-      flex-wrap: wrap;
-    }
-    .preset-btn {
+    .preset-label {
       font-family: 'Fredoka', sans-serif;
       font-weight: 600;
-      font-size: 13px;
-      padding: 8px 18px;
-      border-radius: 100px;
-      border: none;
-      cursor: pointer;
-      transition: transform 0.15s, box-shadow 0.15s;
-      background: #f5edf7;
+      font-size: 14px;
       color: #3d2c4a;
-      display: flex;
-      align-items: center;
-      gap: 6px;
+      margin-bottom: 10px;
+    }
+ .preset-row {
+  display: flex;
+    gap: 8px;
+    margin-bottom: 16px;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    overflow-y: hidden;
+
+    padding-bottom: 10px;
+
+    scrollbar-width: thin;
+    scroll-behavior: smooth;
+}
+    .preset-btn {
+      font-family: 'Fredoka', sans-serif;
+    font-weight: 600;
+    font-size: 12.5px;
+    padding: 8px 16px;
+    border-radius: 100px;
+    border: none;
+    cursor: pointer;
+    transition: transform 0.15s, box-shadow 0.15s;
+    background: #f5edf7;
+    color: #3d2c4a;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    white-space: nowrap;
+    flex-shrink: 0;
     }
     .preset-btn:hover { transform: scale(1.04); }
-    .preset-btn.all { background: linear-gradient(135deg, #8b6ff5, #a78bfa); color: #fff; }
     .preset-btn.boys { background: linear-gradient(135deg, #5aa8f2, #3b82f6); color: #fff; }
     .preset-btn.girls { background: linear-gradient(135deg, #ff5f96, #ec4899); color: #fff; }
+    .preset-btn.irish { background: linear-gradient(135deg, #4ade80, #16a34a); color: #fff; }
+    .preset-btn.japanese { background: linear-gradient(135deg, #fb7185, #e11d48); color: #fff; }
+    .preset-btn.unique { background: linear-gradient(135deg, #a78bfa, #7c3aed); color: #fff; }
+    .preset-btn.biblical { background: linear-gradient(135deg, #fbbf5a, #d97706); color: #fff; }
+    .preset-btn.italian { background: linear-gradient(135deg, #2dd4bf, #0d9488); color: #fff; }
+    .preset-btn.arabic { background: linear-gradient(135deg, #fb923c, #ea580c); color: #fff; }
+    .preset-btn.nordic { background: linear-gradient(135deg, #38bdf8, #0284c7); color: #fff; }
+    .preset-btn.fantasy { background: linear-gradient(135deg, #818cf8, #6366f1); color: #fff; }
+    .preset-btn.cute { background: linear-gradient(135deg, #fda4af, #fb7185); color: #fff; }
+    .preset-btn.neutral { background: linear-gradient(135deg, #94a3b8, #64748b); color: #fff; }
+    .preset-btn.royal { background: linear-gradient(135deg, #c084fc, #9333ea); color: #fff; }
+    .preset-btn.nature { background: linear-gradient(135deg, #84cc16, #65a30d); color: #fff; }
     .preset-btn.active { box-shadow: 0 0 0 3px #fff, 0 0 0 5px #8b6ff5; }
 
     .chips {
@@ -726,12 +752,15 @@
       .cloud-bg { display: none; }
     }
     @media (max-width: 480px) {
-      .feature-grid { grid-template-columns: 1fr; }
-      .names-panel { padding: 18px 16px; }
-      .entry-row { flex-direction: column; }
-      .entry-row button { padding: 12px; }
-      .preset-row { justify-content: center; }
+    .feature-grid { grid-template-columns: 1fr; }
+    .names-panel { padding: 18px 16px; }
+    .entry-row { flex-direction: column; }
+    .entry-row button { padding: 12px; }
+
+    .preset-row {
+        justify-content: flex-start;
     }
+}
   </style>
 </head>
 <body>
@@ -759,8 +788,8 @@
       <div class="brand">
         <div class="icon" aria-hidden="true">🎡</div>
         <div class="name">
-          <b>Random Names</b>
-          <span>Wheel Generator</span>
+          <b>Baby Name Generator Wheel</b>
+          <span>Spin Random Baby Names Online</span>
         </div>
       </div>
       <nav class="nav-links" role="navigation" aria-label="Main navigation">
@@ -781,11 +810,11 @@
         <div class="hero-grid">
           <div>
             <h1 id="wheel-heading">
-              <span class="l1">Random</span><br/>
-              <span class="l2">Names Wheel</span><br/>
-              <span class="l1">Generator</span>
+              <span class="l1">BabyWheel</span><br/>
+              <span class="l2"> Random</span><br/>
+              <span class="l1">Name Generator</span>
             </h1>
-            <p class="hero-sub">Can't decide? Let fate choose! Add names, hit spin, and get a random winner in seconds.</p>
+            <p class="hero-sub">Discover beautiful baby names from around the world. Spin the wheel to explore popular boy names, girl names, unique names, Irish names, Japanese names, Biblical names, and many more.</p>
             <button class="hero-cta" id="scrollBtn" aria-label="Scroll to name input to create your wheel">✨ Create Your Wheel →</button>
             <div class="trust-line">
               <span>♥ 100% Free</span>
@@ -826,10 +855,22 @@
           </div>
 
           <!-- PRESET BUTTONS -->
-          <div class="preset-row" role="group" aria-label="Name preset options">
-            <button class="preset-btn all" data-preset="all" aria-label="Load all names preset">👥 All</button>
-            <button class="preset-btn boys" data-preset="boys" aria-label="Load boys names preset">👦 Boys</button>
-            <button class="preset-btn girls" data-preset="girls" aria-label="Load girls names preset">👧 Girls</button>
+          <div class="preset-label">🌸 Popular Baby Name Lists:</div>
+          <div class="preset-row" role="group" aria-label="Popular baby name list categories">
+            <button class="preset-btn boys" data-preset="boys" aria-label="Load popular boy names">👦 Popular Boy Names</button>
+            <button class="preset-btn girls" data-preset="girls" aria-label="Load popular girl names">👧 Popular Girl Names</button>
+            <button class="preset-btn irish" data-preset="irish" aria-label="Load Irish baby names">🇮🇪 Irish Baby Names</button>
+            <button class="preset-btn japanese" data-preset="japanese" aria-label="Load Japanese baby names">🇯🇵 Japanese Baby Names</button>
+            <button class="preset-btn unique" data-preset="unique" aria-label="Load unique baby names">❤️ Unique Baby Names</button>
+            <button class="preset-btn biblical" data-preset="biblical" aria-label="Load Biblical baby names">⭐ Biblical Baby Names</button>
+            <button class="preset-btn italian" data-preset="italian" aria-label="Load Italian names">🇮🇹 Italian Names</button>
+            <button class="preset-btn arabic" data-preset="arabic" aria-label="Load Arabic names">🇸🇦 Arabic Names</button>
+            <button class="preset-btn nordic" data-preset="nordic" aria-label="Load Nordic names">🇳🇴 Nordic Names</button>
+            <button class="preset-btn fantasy" data-preset="fantasy" aria-label="Load fantasy names">✨ Fantasy Names</button>
+            <button class="preset-btn cute" data-preset="cute" aria-label="Load cute baby names">🐻 Cute Baby Names</button>
+            <button class="preset-btn neutral" data-preset="neutral" aria-label="Load gender-neutral names">🎀 Gender-Neutral Names</button>
+            <button class="preset-btn royal" data-preset="royal" aria-label="Load royal-inspired names">👑 Royal-Inspired Names</button>
+            <button class="preset-btn nature" data-preset="nature" aria-label="Load nature names">🌼 Nature Names</button>
           </div>
 
           <div class="chips" id="chips" role="list" aria-label="List of names on the wheel"></div>
@@ -918,15 +959,15 @@
   </main>
 
   <!-- ===== FOOTER ===== -->
-  <footer id="faq" role="contentinfo">
-    <div class="container">
+<footer id="footer" role="contentinfo">
+        <div class="container">
       <div class="foot-grid">
         <div class="foot-brand">
           <div class="brand">
             <div class="icon" style="width:36px;height:36px;font-size:18px;" aria-hidden="true">🎡</div>
             <div class="name">
               <b style="font-size:16px;">Random Names</b>
-              <span>Wheel Generator</span>
+              <span>Random Baby Name Generator</span>
             </div>
           </div>
           <p>Making decisions fun, fair, and totally random. ✨</p>
@@ -951,7 +992,7 @@
           </ul>
         </div>
       </div>
-      <div class="foot-bottom">© 2026 Random Names Wheel Generator. All rights reserved.</div>
+      <div class="foot-bottom">© 2026 Random Baby Name Generator. All rights reserved.</div>
     </div>
   </footer>
 
@@ -976,9 +1017,20 @@
 
       // --- NAME PRESETS ---
       const PRESETS = {
-        all: ['Luna', 'Oliver', 'Mason', 'Emma', 'Sophia', 'Noah', 'Liam', 'Ava', 'Ethan', 'Mia'],
         boys: ['Oliver', 'Mason', 'Noah', 'Liam', 'Ethan', 'Lucas', 'Henry', 'Alexander', 'James', 'Benjamin'],
-        girls: ['Luna', 'Emma', 'Sophia', 'Ava', 'Mia', 'Charlotte', 'Amelia', 'Harper', 'Evelyn', 'Isabella']
+        girls: ['Luna', 'Emma', 'Sophia', 'Ava', 'Mia', 'Charlotte', 'Amelia', 'Harper', 'Evelyn', 'Isabella'],
+        irish: ['Aoife', 'Saoirse', 'Niamh', 'Cian', 'Liam', 'Fiona', 'Declan', 'Orla', 'Seamus', 'Ciara'],
+        japanese: ['Yuki', 'Haruto', 'Sakura', 'Ren', 'Hana', 'Sora', 'Aiko', 'Kaito', 'Yui', 'Riku'],
+        unique: ['Zephyr', 'Indigo', 'Wren', 'Rune', 'Elowen', 'Orion', 'Juniper', 'Sable', 'Thorne', 'Marlowe'],
+        biblical: ['Noah', 'Abraham', 'Sarah', 'Isaac', 'Rebecca', 'Moses', 'Ruth', 'Elijah', 'Esther', 'Samuel'],
+        italian: ['Giulia', 'Matteo', 'Isabella', 'Luca', 'Francesca', 'Leonardo', 'Chiara', 'Alessandro', 'Valentina', 'Marco'],
+        arabic: ['Amir', 'Layla', 'Zayn', 'Yasmin', 'Omar', 'Nadia', 'Karim', 'Farah', 'Rania', 'Tariq'],
+        nordic: ['Freya', 'Bjorn', 'Astrid', 'Erik', 'Ingrid', 'Sven', 'Saga', 'Magnus', 'Elsa', 'Leif'],
+        fantasy: ['Elara', 'Thorin', 'Lyra', 'Draven', 'Isolde', 'Kael', 'Seraphina', 'Aldric', 'Nyx', 'Fenwick'],
+        cute: ['Bella', 'Milo', 'Poppy', 'Teddy', 'Daisy', 'Bear', 'Coco', 'Pip', 'Honey', 'Biscuit'],
+        neutral: ['River', 'Rowan', 'Sage', 'Quinn', 'Avery', 'Emerson', 'Skyler', 'Phoenix', 'Reese', 'Jordan'],
+        royal: ['Alexander', 'Victoria', 'George', 'Charlotte', 'Louis', 'Elizabeth', 'William', 'Catherine', 'Henry', 'Adelaide'],
+        nature: ['Willow', 'River', 'Iris', 'Fern', 'Cedar', 'Meadow', 'Aspen', 'Ivy', 'Sage', 'Rain']
       };
 
       let names = ['Luna', 'Oliver', 'Mason', 'Emma', 'Sophia', 'Noah'];
