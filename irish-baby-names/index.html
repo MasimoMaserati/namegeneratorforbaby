@@ -1,100 +1,413 @@
-<section class="content-section">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>50 Irish Baby Names · NameGeneratorForBaby</title>
+  <meta name="description" content="Discover 50 beautiful Irish baby names with meanings, origins, and pronunciation. Explore traditional Gaelic names for boys and girls inspired by Irish history and mythology.">
+  <link rel="canonical" href="https://namegeneratorforbaby.com/irish-baby-names/">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
 
-<h1>50 Beautiful Irish Baby Names: Meanings and Origins</h1>
+    body {
+      font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+      background: #f6f2f0;
+      background-image: radial-gradient(circle at 10% 20%, #f9f3ef 0%, #e8e0da 100%);
+      color: #1e1a1f;
+      padding: 0 16px 40px;
+      min-height: 100vh;
+    }
 
-<p>
-Irish baby names are loved around the world for their rich history, unique
-pronunciation, and strong connections to Celtic culture. Many names have been
-passed down for centuries, inspired by legendary heroes, powerful queens,
-ancient saints, and Ireland's breathtaking landscapes. Whether you're searching
-for a traditional Gaelic name or a modern favorite, these Irish baby names
-combine timeless beauty with meaningful stories.
-</p>
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
 
-<h2>Girls' Irish Baby Names</h2>
+    /* HEADER */
+    .site-header {
+      background: rgba(255, 250, 245, 0.85);
+      backdrop-filter: blur(4px);
+      border-radius: 0 0 32px 32px;
+      padding: 20px 24px;
+      margin: 0 -16px 32px -16px;
+      box-shadow: 0 6px 20px rgba(0,0,0,0.03);
+      border-bottom: 1px solid rgba(255, 215, 200, 0.3);
+    }
 
-<h3>Aoife</h3>
+    .header-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+    }
 
-<p>
-Pronounced <strong>EE-fa</strong>, Aoife means
-<strong>"beauty"</strong> or <strong>"radiance."</strong> In Irish mythology,
-Aoife was a fearless warrior princess celebrated for her courage, intelligence,
-and strength. Today, Aoife remains one of Ireland's most popular girls' names
-and is admired for its elegant sound and deep cultural roots.
-</p>
+    .brand {
+      font-size: 26px;
+      font-weight: 700;
+      color: #2f1e2b;
+      letter-spacing: -0.3px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
 
-<h3>Saoirse</h3>
+    .brand span {
+      background: #c9b3a8;
+      color: #2b1c20;
+      font-size: 18px;
+      padding: 4px 14px;
+      border-radius: 60px;
+      font-weight: 400;
+      letter-spacing: 0.3px;
+    }
 
-<p>
-Meaning <strong>"freedom,"</strong> Saoirse became internationally recognized
-through actress Saoirse Ronan, but the name has represented Irish independence
-and national pride for generations. Although its spelling may look unusual to
-English speakers, its beautiful pronunciation makes it unforgettable.
-</p>
+    nav {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px 18px;
+      margin-top: 6px;
+    }
 
-<h3>Niamh</h3>
+    nav a {
+      text-decoration: none;
+      color: #3e2b33;
+      font-weight: 500;
+      font-size: 0.95rem;
+      border-bottom: 2px solid transparent;
+      transition: 0.2s;
+      padding-bottom: 2px;
+    }
 
-<p>
-Pronounced <strong>NEEV</strong>, Niamh means
-<strong>"bright"</strong> or <strong>"radiant."</strong> According to Irish
-legend, Niamh was the daughter of the sea god Manannán mac Lir and welcomed the
-hero Oisín to the magical land of Tír na nÓg, where no one grows old.
-</p>
+    nav a:hover {
+      border-bottom-color: #b4877a;
+      color: #22161b;
+    }
 
-<h3>Maeve</h3>
+    /* intro */
+    .intro {
+      background: rgba(255, 247, 242, 0.7);
+      backdrop-filter: blur(4px);
+      border-radius: 40px;
+      padding: 28px 30px;
+      margin-bottom: 44px;
+      border: 1px solid rgba(255, 225, 210, 0.4);
+      box-shadow: 0 12px 30px -12px rgba(60, 40, 30, 0.10);
+    }
 
-<p>
-Maeve comes from the legendary Queen Medb of Connacht and means
-<strong>"she who intoxicates."</strong> Known for her confidence, leadership,
-and determination, Queen Maeve is one of the most famous female figures in Irish
-mythology. The name has become increasingly popular around the world.
-</p>
+    .intro h1 {
+      font-size: 2.2rem;
+      font-weight: 600;
+      color: #271e21;
+      letter-spacing: -0.02em;
+      line-height: 1.2;
+      margin-bottom: 12px;
+    }
 
-<h3>Ciara</h3>
+    .intro p {
+      font-size: 1.1rem;
+      line-height: 1.6;
+      color: #31252a;
+      max-width: 800px;
+    }
 
-<p>
-Ciara means <strong>"dark-haired"</strong> or
-<strong>"dark."</strong> Dating back to Saint Ciara in the seventh century, this
-beautiful name combines simplicity with a long and respected history in Ireland.
-</p>
+    /* section title */
+    .section-title {
+      font-size: 2rem;
+      font-weight: 600;
+      margin: 48px 0 24px 0;
+      padding-left: 6px;
+      color: #2a1d22;
+      letter-spacing: -0.3px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
 
-<h3>Aisling</h3>
+    .section-title::after {
+      content: '';
+      flex: 1;
+      height: 2px;
+      background: linear-gradient(90deg, #dac1b6, transparent);
+    }
 
-<p>
-Meaning <strong>"dream"</strong> or <strong>"vision,"</strong> Aisling became
-popular through Irish poetry during the eighteenth century. It symbolizes hope,
-inspiration, and imagination, making it a meaningful choice for many families.
-</p>
+    /* card grid */
+    .card-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 24px;
+      margin-bottom: 20px;
+    }
 
-<h3>Orla</h3>
+    /* name card */
+    .name-card {
+      background: rgba(255, 248, 244, 0.8);
+      backdrop-filter: blur(2px);
+      border-radius: 28px;
+      padding: 22px 20px 24px;
+      box-shadow: 0 8px 24px rgba(80, 55, 45, 0.04);
+      border: 1px solid rgba(255, 235, 225, 0.6);
+      transition: all 0.2s ease;
+      display: flex;
+      flex-direction: column;
+    }
 
-<p>
-Orla, also spelled Órlaith, means
-<strong>"golden princess."</strong> The name has royal origins and has been
-associated with Irish nobility for hundreds of years.
-</p>
+    .name-card:hover {
+      transform: translateY(-3px);
+      background: rgba(255, 250, 245, 0.9);
+      border-color: #decbc0;
+      box-shadow: 0 20px 30px -12px rgba(80, 50, 40, 0.10);
+    }
 
-<h3>Clodagh</h3>
+    .name-card h2 {
+      font-size: 1.9rem;
+      font-weight: 600;
+      color: #2f1b21;
+      letter-spacing: -0.3px;
+      margin-bottom: 6px;
+      line-height: 1.1;
+    }
 
-<p>
-Named after the River Clodagh in County Waterford, Clodagh reflects Ireland's
-deep connection to nature. The name has a graceful sound while celebrating the
-country's beautiful landscapes.
-</p>
+    .name-card .pronounce {
+      font-size: 0.9rem;
+      font-weight: 500;
+      color: #7f6157;
+      background: rgba(200, 175, 163, 0.2);
+      display: inline-block;
+      padding: 3px 14px;
+      border-radius: 40px;
+      margin-bottom: 12px;
+      align-self: flex-start;
+    }
 
-<h3>Brigid</h3>
+    .name-card .meaning {
+      font-size: 1rem;
+      font-weight: 500;
+      color: #4f353b;
+      background: rgba(215, 190, 180, 0.15);
+      padding: 6px 14px;
+      border-radius: 40px;
+      display: inline-block;
+      margin-bottom: 14px;
+      align-self: flex-start;
+    }
 
-<p>
-Brigid means <strong>"exalted one."</strong> It honors both the ancient Celtic
-goddess of poetry, healing, and wisdom, as well as Saint Brigid, one of
-Ireland's patron saints. Few Irish names have such a rich spiritual and
-historical background.
-</p>
+    .name-card p {
+      font-size: 0.96rem;
+      line-height: 1.6;
+      color: #2d2127;
+      margin-top: 4px;
+      flex: 1;
+    }
 
-<h3>Éabha</h3>
+    .name-card .origin-tag {
+      margin-top: 12px;
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      color: #90766b;
+      border-top: 1px dashed #e1cfc5;
+      padding-top: 12px;
+    }
 
-<p>
-Éabha is the Irish form of Eve and means
-<strong>"life."</strong> It has become increasingly popular among modern Irish
-families thanks to its elegant pronunciation and timeless simplicity.
-</p>
+    /* note & footer */
+    .note-card {
+      background: #f4ebe6;
+      border-radius: 32px;
+      padding: 28px 30px;
+      margin: 40px 0 30px;
+      border-left: 6px solid #be9f91;
+    }
+
+    .note-card h3 {
+      font-size: 1.5rem;
+      font-weight: 500;
+      color: #2b1d1f;
+      margin-bottom: 12px;
+    }
+
+    .note-card p {
+      font-size: 1.05rem;
+      line-height: 1.6;
+      color: #34262b;
+    }
+
+    .footer {
+      margin-top: 60px;
+      padding: 30px 20px 20px;
+      border-top: 2px solid rgba(190, 165, 153, 0.2);
+      text-align: center;
+      color: #4f3b3b;
+      font-size: 0.95rem;
+    }
+
+    .footer a {
+      color: #5d3f3f;
+      text-decoration: none;
+      margin: 0 10px;
+      font-weight: 500;
+    }
+
+    .footer a:hover {
+      text-decoration: underline;
+    }
+
+    @media (max-width: 600px) {
+      .site-header {
+        padding: 16px 16px;
+      }
+      .brand {
+        font-size: 20px;
+        flex-wrap: wrap;
+      }
+      .intro h1 {
+        font-size: 1.8rem;
+      }
+      .card-grid {
+        grid-template-columns: 1fr;
+      }
+      .section-title {
+        font-size: 1.6rem;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+
+  <!-- header -->
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="brand">
+        🎡 NameGeneratorForBaby
+        <span>Ireland</span>
+      </div>
+      <nav>
+        <a href="#">Home</a>
+        <a href="#">Lists</a>
+        <a href="#">Wheel</a>
+        <a href="#">About</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- intro -->
+  <section class="intro">
+    <h1>50 beautiful Irish baby names<br> meanings & origins</h1>
+    <p>
+      Irish baby names are admired around the world for their rich history, beautiful sounds,
+      and deep connections to Celtic mythology and Gaelic tradition. Many have been passed
+      down for centuries, inspired by legendary heroes, saints, queens, and Ireland's stunning
+      landscapes. Whether you're searching for a timeless classic or a unique name with ancient
+      roots, these Irish names offer plenty of inspiration.
+    </p>
+  </section>
+
+  <!-- GIRLS -->
+  <h2 class="section-title">✨ Girls' Irish baby names</h2>
+  <div class="card-grid">
+
+    <div class="name-card"><h2>Aoife</h2><div class="pronounce">EE-fa</div><div class="meaning">Beauty · Radiance</div><p>Aoife is one of the best-known names in Irish mythology. A fearless warrior princess, Aoife symbolizes courage, strength, and beauty. Today, it remains among Ireland's most popular girls' names.</p><div class="origin-tag">⚔️ mythological warrior</div></div>
+    <div class="name-card"><h2>Saoirse</h2><div class="pronounce">SEER-sha</div><div class="meaning">Freedom</div><p>A modern favorite that symbolizes independence and hope. Saoirse has risen in popularity worldwide, partly thanks to Irish actress Saoirse Ronan, and carries a powerful sense of liberty.</p><div class="origin-tag">🇮🇪 modern classic</div></div>
+    <div class="name-card"><h2>Niamh</h2><div class="pronounce">NEEV</div><div class="meaning">Bright · Radiant</div><p>Daughter of the sea god Manannán mac Lir in Irish mythology, Niamh is a radiant figure who guided Oisín to Tír na nÓg. Her name evokes light and otherworldly beauty.</p><div class="origin-tag">🌊 sea goddess</div></div>
+    <div class="name-card"><h2>Maeve</h2><div class="pronounce">MAYV</div><div class="meaning">She who intoxicates</div><p>Inspired by the legendary Queen Medb of Connacht, Maeve is a strong, assertive name. Queen Medb was a powerful ruler in the Ulster Cycle, known for her ambition and fierce independence.</p><div class="origin-tag">👑 warrior queen</div></div>
+    <div class="name-card"><h2>Ciara</h2><div class="pronounce">KEER-ah</div><div class="meaning">Dark-haired</div><p>A timeless Irish classic, Ciara is the feminine form of Ciarán. It has been a beloved name in Ireland for centuries and remains elegant and versatile.</p><div class="origin-tag">🌙 classic</div></div>
+    <div class="name-card"><h2>Aisling</h2><div class="pronounce">ASH-ling</div><div class="meaning">Dream · Vision</div><p>Aisling is a poetic name that refers to a genre of Irish poetry where Ireland appears as a vision. It's dreamy, lyrical, and deeply rooted in Irish literary tradition.</p><div class="origin-tag">📜 poetic</div></div>
+    <div class="name-card"><h2>Orla</h2><div class="pronounce">OR-lah</div><div class="meaning">Golden princess</div><p>Derived from the Irish Órlaith, Orla is a regal name that means "golden princess." It has a warm, luminous feel and is both classic and fresh.</p><div class="origin-tag">👑 golden</div></div>
+    <div class="name-card"><h2>Clodagh</h2><div class="pronounce">CLO-dah</div><div class="meaning">River Clodagh</div><p>Named after the River Clodagh in County Tipperary, this name has a gentle, flowing quality. It's a nature-inspired name that feels distinctly Irish.</p><div class="origin-tag">🌿 river name</div></div>
+    <div class="name-card"><h2>Brigid</h2><div class="pronounce">BRIDGE-id</div><div class="meaning">Exalted one</div><p>Associated with Saint Brigid of Ireland, one of the country's patron saints. Brigid was also a goddess in Irish mythology, linked to poetry, healing, and smithcraft.</p><div class="origin-tag">🔥 saint & goddess</div></div>
+    <div class="name-card"><h2>Éabha</h2><div class="pronounce">AY-vah</div><div class="meaning">Life</div><p>The Irish form of Eve, Éabha is a short, elegant name with a biblical connection. It has been growing in popularity for its simple beauty and strong meaning.</p><div class="origin-tag">🌱 life</div></div>
+    <div class="name-card"><h2>Róisín</h2><div class="pronounce">RO-sheen</div><div class="meaning">Little rose</div><p>A diminutive of Róis, meaning "rose." Róisín is a beloved name in Ireland, often associated with the song "Róisín Dubh" (Dark Little Rose), a symbol of Ireland.</p><div class="origin-tag">🌹 little rose</div></div>
+    <div class="name-card"><h2>Sinéad</h2><div class="pronounce">shin-AYD</div><div class="meaning">God is gracious</div><p>The Irish form of Jane, Sinéad is a classic name with a strong, clear sound. It has been borne by many notable Irish women, including singer Sinéad O'Connor.</p><div class="origin-tag">✨ gracious</div></div>
+    <div class="name-card"><h2>Eimear</h2><div class="pronounce">EE-mer</div><div class="meaning">Swift · Ready</div><p>Eimear was the wife of the legendary hero Cú Chulainn, known for her beauty and wisdom. The name has a spirited, energetic feel.</p><div class="origin-tag">⚡ legendary</div></div>
+    <div class="name-card"><h2>Caoimhe</h2><div class="pronounce">KEE-va</div><div class="meaning">Gentle · Beautiful</div><p>Caoimhe is a soft, melodic name that has become increasingly popular. It shares roots with the name Kevin and carries a sense of grace and kindness.</p><div class="origin-tag">🕊️ gentle</div></div>
+    <div class="name-card"><h2>Fiadh</h2><div class="pronounce">FEE-ah</div><div class="meaning">Wild · Deer</div><p>A modern Irish name that has soared in popularity, Fiadh means "wild" or "deer." It evokes a connection to nature and the untamed beauty of the Irish countryside.</p><div class="origin-tag">🌲 wild</div></div>
+    <div class="name-card"><h2>Erin</h2><div class="pronounce">ERR-in</div><div class="meaning">Ireland</div><p>The poetic name for Ireland, Erin is a beautiful and accessible name. It's a favorite among those who want to honor their Irish heritage.</p><div class="origin-tag">🇮🇪 poetic</div></div>
+    <div class="name-card"><h2>Tara</h2><div class="pronounce">TAH-rah</div><div class="meaning">Hill of Tara</div><p>Named after the Hill of Tara, the ancient seat of the High Kings of Ireland. Tara is a name with royal and historical weight, yet it feels warm and familiar.</p><div class="origin-tag">🏰 ancient</div></div>
+    <div class="name-card"><h2>Deirdre</h2><div class="pronounce">DEER-drah</div><div class="meaning">Legendary heroine</div><p>Deirdre is a tragic heroine from Irish mythology, known for her beauty and sorrow. The name has a dramatic, passionate quality.</p><div class="origin-tag">📖 mythic</div></div>
+    <div class="name-card"><h2>Sorcha</h2><div class="pronounce">SUR-kah</div><div class="meaning">Brightness</div><p>Sorcha means "brightness" or "light," and is the Gaelic equivalent of Clara. It's a luminous, understated name with a clear, radiant meaning.</p><div class="origin-tag">☀️ light</div></div>
+    <div class="name-card"><h2>Gráinne</h2><div class="pronounce">GRAWN-yah</div><div class="meaning">Legendary princess</div><p>Gráinne was a famous princess in Irish mythology, known for her role in the Fenian Cycle. The name has a strong, regal feel.</p><div class="origin-tag">👑 mythic</div></div>
+    <div class="name-card"><h2>Ailbhe</h2><div class="pronounce">AL-vah</div><div class="meaning">Bright · White</div><p>Ailbhe is a unisex name in Ireland, but often used for girls. It has a crisp, clean sound and is associated with brightness and purity.</p><div class="origin-tag">✨ bright</div></div>
+    <div class="name-card"><h2>Bláthnaid</h2><div class="pronounce">BLAW-nid</div><div class="meaning">Little flower</div><p>Bláthnaid is a delicate, floral name that has a lovely Irish lilt. It's a diminutive of bláth, meaning "flower."</p><div class="origin-tag">🌸 little flower</div></div>
+    <div class="name-card"><h2>Muireann</h2><div class="pronounce">MWEER-in</div><div class="meaning">Sea white</div><p>Muireann is a name that evokes the sea, combining "muir" (sea) and "fionn" (white). It has a mythical, ancient feel.</p><div class="origin-tag">🌊 sea-white</div></div>
+    <div class="name-card"><h2>Nessa</h2><div class="pronounce">NESS-ah</div><div class="meaning">Legendary queen</div><p>Nessa was a queen in Irish mythology, mother of Conchobar mac Nessa. The name is strong, short, and memorable.</p><div class="origin-tag">👑 queen</div></div>
+    <div class="name-card"><h2>Úna</h2><div class="pronounce">OO-nah</div><div class="meaning">Unity · Lamb</div><p>Úna is a classic Irish name with a gentle sound. It can mean "unity" or "lamb," and has been used in Ireland for centuries.</p><div class="origin-tag">🐑 unity</div></div>
+
+  </div>
+
+  <!-- BOYS -->
+  <h2 class="section-title">⚔️ Boys' Irish baby names</h2>
+  <div class="card-grid">
+
+    <div class="name-card"><h2>Liam</h2><div class="pronounce">LEE-am</div><div class="meaning">Resolute protector</div><p>Liam is a short form of Uilliam, the Irish version of William. It has become one of the most popular Irish names worldwide, known for its strength and charm.</p><div class="origin-tag">🛡️ protector</div></div>
+    <div class="name-card"><h2>Finn</h2><div class="pronounce">FIN</div><div class="meaning">Fair · White</div><p>Finn is a classic name from Irish mythology, associated with the hero Fionn mac Cumhaill. It's a short, strong name with a timeless appeal.</p><div class="origin-tag">🏹 hero</div></div>
+    <div class="name-card"><h2>Cian</h2><div class="pronounce">KEE-an</div><div class="meaning">Ancient · Enduring</div><p>Cian is a name with deep roots, meaning "ancient." In mythology, Cian was the father of the god Lugh. It's a handsome, understated choice.</p><div class="origin-tag">⏳ ancient</div></div>
+    <div class="name-card"><h2>Oisín</h2><div class="pronounce">USH-een</div><div class="meaning">Little deer</div><p>Oisín was a legendary poet and warrior, son of Fionn mac Cumhaill. The name is strongly associated with the Fenian Cycle and has a lyrical quality.</p><div class="origin-tag">🦌 poet</div></div>
+    <div class="name-card"><h2>Declan</h2><div class="pronounce">DEK-lan</div><div class="meaning">Full of goodness</div><p>Declan is an early Irish saint's name, associated with Saint Declan of Ardmore. It has a gentle, virtuous meaning and is well-known internationally.</p><div class="origin-tag">⛪ saint</div></div>
+    <div class="name-card"><h2>Ronan</h2><div class="pronounce">ROH-nan</div><div class="meaning">Little seal</div><p>Ronan is a name that evokes the sea, meaning "little seal." It has a charming, playful feel and is associated with several early Irish saints.</p><div class="origin-tag">🦭 little seal</div></div>
+    <div class="name-card"><h2>Conor</h2><div class="pronounce">KON-or</div><div class="meaning">Lover of hounds</div><p>Conor is a classic Irish name, derived from Conchobar. It has been borne by many Irish kings and remains a popular, strong choice.</p><div class="origin-tag">🐕 hound-lover</div></div>
+    <div class="name-card"><h2>Fionn</h2><div class="pronounce">FYUN</div><div class="meaning">Fair-haired</div><p>Fionn is the original Irish form of Finn, associated with the legendary hero Fionn mac Cumhaill. It has a heroic, mythical aura.</p><div class="origin-tag">🏹 legendary</div></div>
+    <div class="name-card"><h2>Cillian</h2><div class="pronounce">KIL-ee-an</div><div class="meaning">Little church</div><p>Cillian is an early Irish saint's name, meaning "little church." It has a soft yet strong sound and has gained popularity in recent years.</p><div class="origin-tag">⛪ little church</div></div>
+    <div class="name-card"><h2>Eoin</h2><div class="pronounce">OH-in</div><div class="meaning">God is gracious</div><p>Eoin is the Irish form of John, a classic name with a distinct Irish flavor. It's a simple, handsome name with deep biblical roots.</p><div class="origin-tag">✝️ gracious</div></div>
+    <div class="name-card"><h2>Darragh</h2><div class="pronounce">DAR-ah</div><div class="meaning">Oak tree</div><p>Darragh is a nature-inspired name, derived from the Irish word for oak. It's a sturdy, grounded name that connects to the Irish landscape.</p><div class="origin-tag">🌳 oak</div></div>
+    <div class="name-card"><h2>Tadhg</h2><div class="pronounce">TIGE (rhymes with 'tie')</div><div class="meaning">Poet</div><p>Tadhg is a name that means "poet" and has been borne by many Irish poets and kings. It's a distinctive, literary name.</p><div class="origin-tag">📝 poet</div></div>
+    <div class="name-card"><h2>Seán</h2><div class="pronounce">SHAWN</div><div class="meaning">God is gracious</div><p>Seán is the classic Irish form of John, one of the most enduring names in Ireland. It's a strong, familiar name with a warm feel.</p><div class="origin-tag">✝️ classic</div></div>
+    <div class="name-card"><h2>Niall</h2><div class="pronounce">NYE-al</div><div class="meaning">Champion</div><p>Niall is a name with royal associations, borne by the legendary High King Niall of the Nine Hostages. It means "champion" and has a powerful sound.</p><div class="origin-tag">🏆 champion</div></div>
+    <div class="name-card"><h2>Aidan</h2><div class="pronounce">AY-dan</div><div class="meaning">Little fire</div><p>Aidan is a name associated with Saint Aidan of Lindisfarne. It has a warm, fiery meaning and is a popular choice in both Ireland and beyond.</p><div class="origin-tag">🔥 little fire</div></div>
+    <div class="name-card"><h2>Rory</h2><div class="pronounce">ROAR-ee</div><div class="meaning">Red king</div><p>Rory is the Anglicized form of Ruaidhrí, meaning "red king." It's a regal, bold name with a long history of Irish kingship.</p><div class="origin-tag">👑 red king</div></div>
+    <div class="name-card"><h2>Cormac</h2><div class="pronounce">KOR-mack</div><div class="meaning">Son of the charioteer</div><p>Cormac is an ancient Irish name, borne by several Irish kings. It has a strong, noble sound and is deeply rooted in Irish history.</p><div class="origin-tag">⚔️ kingly</div></div>
+    <div class="name-card"><h2>Diarmuid</h2><div class="pronounce">DEER-mid</div><div class="meaning">Legendary warrior</div><p>Diarmuid was a legendary warrior in the Fenian Cycle, known for his tragic love story with Gráinne. The name has a romantic, heroic feel.</p><div class="origin-tag">⚔️ mythic</div></div>
+    <div class="name-card"><h2>Donnacha</h2><div class="pronounce">DON-ah-kah</div><div class="meaning">Brown warrior</div><p>Donnacha is a name with a strong, earthy meaning. It has been used in Ireland for centuries and has a robust, traditional feel.</p><div class="origin-tag">🛡️ warrior</div></div>
+    <div class="name-card"><h2>Lorcan</h2><div class="pronounce">LOR-kan</div><div class="meaning">Little fierce one</div><p>Lorcan is a name that means "little fierce one," a diminutive of Lorcán. It has a bold, spirited energy and is a distinctive choice.</p><div class="origin-tag">⚡ fierce</div></div>
+    <div class="name-card"><h2>Fergal</h2><div class="pronounce">FER-gal</div><div class="meaning">Brave</div><p>Fergal is a classic Irish name meaning "brave." It has a strong, courageous sound and is associated with several Irish kings.</p><div class="origin-tag">🦁 brave</div></div>
+    <div class="name-card"><h2>Colm</h2><div class="pronounce">KOL-um</div><div class="meaning">Dove</div><p>Colm is a short, gentle name meaning "dove," associated with Saint Colm Cille (Columba). It's a peaceful, classic Irish name.</p><div class="origin-tag">🕊️ dove</div></div>
+    <div class="name-card"><h2>Pádraig</h2><div class="pronounce">PAW-rig</div><div class="meaning">Irish form of Patrick</div><p>Pádraig is the Irish form of Patrick, the patron saint of Ireland. It's a name with deep national and religious significance.</p><div class="origin-tag">☘️ patron</div></div>
+    <div class="name-card"><h2>Cathal</h2><div class="pronounce">KAH-hal</div><div class="meaning">Battle ruler</div><p>Cathal is a name that means "battle ruler," combining "cath" (battle) and "val" (ruler). It's a strong, authoritative name.</p><div class="origin-tag">⚔️ battle ruler</div></div>
+    <div class="name-card"><h2>Eoghan</h2><div class="pronounce">OW-en</div><div class="meaning">Born of the yew tree</div><p>Eoghan is the Irish form of Owen, meaning "born of the yew tree." It's a name with ancient, mythological associations and a handsome sound.</p><div class="origin-tag">🌲 yew-born</div></div>
+
+  </div>
+
+  <!-- note on pronunciation -->
+  <div class="note-card">
+    <h3>🔊 A note on pronunciation</h3>
+    <p>
+      Irish names often use spellings that are unfamiliar to English speakers because they
+      follow Irish Gaelic pronunciation rules. Names like <strong>Aoife</strong>,
+      <strong>Saoirse</strong>, <strong>Caoimhe</strong>, <strong>Niamh</strong>, and
+      <strong>Tadhg</strong> may look difficult at first, but once learned they become some
+      of the most distinctive and memorable names in the world.
+    </p>
+    <p style="margin-top: 12px;">
+      If pronunciation is important to you, try saying the names aloud or listen to native
+      Irish speakers online before making your final choice.
+    </p>
+  </div>
+
+  <!-- final message -->
+  <div style="background: rgba(250, 240, 235, 0.5); border-radius: 40px; padding: 24px 28px; margin: 30px 0 20px;">
+    <h3 style="font-size: 1.4rem; font-weight: 500; color: #2d1d22;">🍀 Find your perfect Irish baby name</h3>
+    <p style="font-size: 1.05rem; line-height: 1.6; color: #30242a;">
+      Whether you're inspired by Irish mythology, Celtic history, or simply love the sound
+      of Gaelic names, there's an Irish baby name for every family. Add your favorite names
+      to the Name Generator Wheel and spin to discover which one feels just right.
+    </p>
+  </div>
+
+  <!-- footer -->
+  <footer class="footer">
+    <p>&copy; 2026 NameGeneratorForBaby.com. All rights reserved.</p>
+    <div style="margin-top: 12px;">
+      <a href="#">Home</a> <a href="#">About</a> <a href="#">Privacy</a> <a href="#">Terms</a>
+    </div>
+  </footer>
+
+</div>
+<!-- end container -->
+</body>
+</html>
