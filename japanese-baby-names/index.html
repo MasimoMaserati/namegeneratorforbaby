@@ -1,0 +1,434 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>50 Japanese Baby Names · NameGeneratorForBaby</title>
+  <meta name="description" content="Discover 50 beautiful Japanese baby names with meanings, origins, and kanji inspiration. Explore elegant names for boys and girls inspired by nature, tradition, and Japanese culture.">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+      background: #FFFFFF;
+      background-image: radial-gradient(circle at 10% 20%, #f5f2f7 0%, #eae7ef 100%);
+      color: #1e1a1f;
+      padding: 0 16px 40px;
+      min-height: 100vh;
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    /* HEADER */
+    .site-header {
+      background: #875F9A;
+      border-radius: 0 0 32px 32px;
+      padding: 20px 24px;
+      margin: 0 -16px 32px -16px;
+      box-shadow: 0 6px 20px rgba(135, 95, 154, 0.2);
+      border-bottom: 3px solid #F57F4F;
+    }
+
+    .header-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .brand {
+      font-size: 26px;
+      font-weight: 700;
+      color: #FFFFFF;
+      letter-spacing: -0.3px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .brand span {
+      background: #F57F4F;
+      color: #FFFFFF;
+      font-size: 18px;
+      padding: 4px 14px;
+      border-radius: 60px;
+      font-weight: 400;
+      letter-spacing: 0.3px;
+    }
+
+    nav {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px 18px;
+      margin-top: 6px;
+    }
+
+    nav a {
+      text-decoration: none;
+      color: #FFFFFF;
+      font-weight: 500;
+      font-size: 0.95rem;
+      border-bottom: 2px solid transparent;
+      transition: 0.2s;
+      padding-bottom: 2px;
+    }
+
+    nav a:hover {
+      border-bottom-color: #F57F4F;
+      color: #FFFFFF;
+    }
+
+    /* intro */
+    .intro {
+      background: #FFFFFF;
+      border-radius: 40px;
+      padding: 28px 30px;
+      margin-bottom: 44px;
+      border: 1px solid #7A942E;
+      box-shadow: 0 12px 30px -12px rgba(122, 148, 46, 0.12);
+    }
+
+    .intro h1 {
+      font-size: 2.2rem;
+      font-weight: 600;
+      color: #875F9A;
+      letter-spacing: -0.02em;
+      line-height: 1.2;
+      margin-bottom: 12px;
+    }
+
+    .intro p {
+      font-size: 1.1rem;
+      line-height: 1.6;
+      color: #2a2a2a;
+      max-width: 800px;
+    }
+
+    /* section title */
+    .section-title {
+      font-size: 2rem;
+      font-weight: 600;
+      margin: 48px 0 24px 0;
+      padding-left: 6px;
+      color: #4D8FAC;
+      letter-spacing: -0.3px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .section-title::after {
+      content: '';
+      flex: 1;
+      height: 3px;
+      background: linear-gradient(90deg, #7A942E, #F57F4F);
+      border-radius: 4px;
+    }
+
+    /* card grid */
+    .card-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 24px;
+      margin-bottom: 20px;
+    }
+
+    /* name card */
+    .name-card {
+      background: #FFFFFF;
+      border-radius: 28px;
+      padding: 22px 20px 24px;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.03);
+      border: 1px solid #e4dce8;
+      transition: all 0.2s ease;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .name-card:hover {
+      transform: translateY(-3px);
+      border-color: #875F9A;
+      box-shadow: 0 20px 30px -12px rgba(135, 95, 154, 0.15);
+    }
+
+    .name-card h2 {
+      font-size: 1.9rem;
+      font-weight: 600;
+      color: #4D8FAC;
+      letter-spacing: -0.3px;
+      margin-bottom: 6px;
+      line-height: 1.1;
+    }
+
+    .name-card .pronounce {
+      font-size: 0.9rem;
+      font-weight: 500;
+      color: #FFFFFF;
+      background: #DB5A6B;
+      display: inline-block;
+      padding: 3px 14px;
+      border-radius: 40px;
+      margin-bottom: 12px;
+      align-self: flex-start;
+    }
+
+    .name-card .meaning {
+      font-size: 1rem;
+      font-weight: 500;
+      color: #7A942E;
+      background: rgba(122, 148, 46, 0.08);
+      padding: 6px 14px;
+      border-radius: 40px;
+      display: inline-block;
+      margin-bottom: 14px;
+      align-self: flex-start;
+    }
+
+    .name-card p {
+      font-size: 0.96rem;
+      line-height: 1.6;
+      color: #2a2a2a;
+      margin-top: 4px;
+      flex: 1;
+    }
+
+    .name-card .origin-tag {
+      margin-top: 12px;
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      color: #875F9A;
+      border-top: 1px dashed #d8cdde;
+      padding-top: 12px;
+    }
+
+    /* note card */
+    .note-card {
+      background: #FFFFFF;
+      border-radius: 32px;
+      padding: 28px 30px;
+      margin: 40px 0 30px;
+      border-left: 6px solid #F57F4F;
+      border: 1px solid #7A942E;
+    }
+
+    .note-card h3 {
+      font-size: 1.5rem;
+      font-weight: 500;
+      color: #4D8FAC;
+      margin-bottom: 12px;
+    }
+
+    .note-card p {
+      font-size: 1.05rem;
+      line-height: 1.6;
+      color: #2a2a2a;
+    }
+
+    /* final message */
+    .final-message {
+      background: #FFFFFF;
+      border-radius: 40px;
+      padding: 24px 28px;
+      margin: 30px 0 20px;
+      border: 1px solid #DB5A6B;
+    }
+
+    .final-message h3 {
+      font-size: 1.4rem;
+      font-weight: 500;
+      color: #875F9A;
+    }
+
+    .final-message p {
+      font-size: 1.05rem;
+      line-height: 1.6;
+      color: #2a2a2a;
+    }
+
+    .footer {
+      margin-top: 60px;
+      padding: 30px 20px 20px;
+      border-top: 3px solid #4D8FAC;
+      text-align: center;
+      color: #4D8FAC;
+      font-size: 0.95rem;
+    }
+
+    .footer a {
+      color: #4D8FAC;
+      text-decoration: none;
+      margin: 0 10px;
+      font-weight: 500;
+    }
+
+    .footer a:hover {
+      text-decoration: underline;
+      color: #DB5A6B;
+    }
+
+    @media (max-width: 600px) {
+      .site-header {
+        padding: 16px 16px;
+      }
+      .brand {
+        font-size: 20px;
+        flex-wrap: wrap;
+      }
+      .intro h1 {
+        font-size: 1.8rem;
+      }
+      .card-grid {
+        grid-template-columns: 1fr;
+      }
+      .section-title {
+        font-size: 1.6rem;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+
+  <!-- header -->
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="brand">
+        🎡 NameGeneratorForBaby
+        <span>Japan</span>
+      </div>
+      <nav>
+        <a href="/">Home</a>
+        <a href="/#how">How It Works</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- intro -->
+  <section class="intro">
+    <h1>50 beautiful Japanese baby names<br> meanings & origins</h1>
+    <p>
+      Japanese baby names are admired for their elegance, symbolism, and connection to nature.
+      Many names are written using kanji, where each character carries its own meaning, allowing
+      the same name to have multiple interpretations. From names inspired by cherry blossoms
+      and the ocean to those representing wisdom, courage, and happiness, Japanese names
+      beautifully reflect the country's culture and traditions.
+      <br><br>
+      Whether you're looking for a timeless classic or a modern favorite, these Japanese baby
+      names offer meaningful inspiration for your growing family.
+    </p>
+  </section>
+
+  <!-- GIRLS -->
+  <h2 class="section-title">🌸 Girls' Japanese baby names</h2>
+  <div class="card-grid">
+
+    <div class="name-card"><h2>Sakura</h2><div class="pronounce">sah-KOO-rah</div><div class="meaning">Cherry blossom</div><p>Meaning "cherry blossom," Sakura is one of Japan's most iconic names. The cherry blossom symbolizes beauty, renewal, and the fleeting nature of life, making this name a timeless favorite.</p><div class="origin-tag">🌸 iconic</div></div>
+    <div class="name-card"><h2>Yui</h2><div class="pronounce">YOO-ee</div><div class="meaning">Bind · Tie · Gentleness</div><p>Yui often means "bind," "tie," or "gentleness," depending on the kanji used. It reflects harmony, friendship, and close family bonds.</p><div class="origin-tag">🤝 harmony</div></div>
+    <div class="name-card"><h2>Aoi</h2><div class="pronounce">AH-oh-ee</div><div class="meaning">Hollyhock · Blue</div><p>Meaning "hollyhock" or sometimes associated with the color blue, Aoi has become one of Japan's most popular modern names.</p><div class="origin-tag">🌿 modern</div></div>
+    <div class="name-card"><h2>Hina</h2><div class="pronounce">HEE-nah</div><div class="meaning">Sunlight · Greens</div><p>Hina can mean "sunlight," "greens," or "vegetables," depending on the characters chosen. It is especially popular for girls born in spring.</p><div class="origin-tag">☀️ spring</div></div>
+    <div class="name-card"><h2>Emi</h2><div class="pronounce">EH-mee</div><div class="meaning">Beautiful blessing · Smile</div><p>Meaning "beautiful blessing" or "beautiful smile," Emi is a cheerful name associated with happiness and kindness.</p><div class="origin-tag">😊 cheerful</div></div>
+    <div class="name-card"><h2>Yuna</h2><div class="pronounce">YOO-nah</div><div class="meaning">Gentleness · Kindness · Moon</div><p>Yuna combines meanings such as "gentleness," "kindness," and "moon," depending on the kanji. It has grown in popularity both in Japan and internationally.</p><div class="origin-tag">🌙 gentle</div></div>
+    <div class="name-card"><h2>Akari</h2><div class="pronounce">ah-KAH-ree</div><div class="meaning">Light · Brightness</div><p>Meaning "light," "brightness," or "illumination," Akari symbolizes hope and positivity.</p><div class="origin-tag">💡 light</div></div>
+    <div class="name-card"><h2>Hana</h2><div class="pronounce">HAH-nah</div><div class="meaning">Flower</div><p>Meaning "flower," Hana represents beauty, grace, and nature. It is one of Japan's most beloved classic names.</p><div class="origin-tag">🌺 classic</div></div>
+    <div class="name-card"><h2>Rin</h2><div class="pronounce">REEN</div><div class="meaning">Dignified · Cold · Companion</div><p>Rin often means "dignified," "cold," or "companion," depending on the kanji. The name is admired for its simplicity and elegance.</p><div class="origin-tag">✨ elegant</div></div>
+    <div class="name-card"><h2>Mio</h2><div class="pronounce">MEE-oh</div><div class="meaning">Beautiful cherry blossom · Thread</div><p>Meaning "beautiful cherry blossom" or "beautiful thread," Mio has a gentle and feminine sound.</p><div class="origin-tag">🌸 gentle</div></div>
+    <div class="name-card"><h2>Nanami</h2><div class="pronounce">nah-NAH-mee</div><div class="meaning">Seven seas</div><p>Meaning "seven seas," Nanami evokes images of the ocean and adventure.</p><div class="origin-tag">🌊 ocean</div></div>
+    <div class="name-card"><h2>Ayaka</h2><div class="pronounce">ah-YAH-kah</div><div class="meaning">Colorful flower · Beautiful blossom</div><p>Ayaka commonly means "colorful flower" or "beautiful blossom."</p><div class="origin-tag">🌷 colorful</div></div>
+    <div class="name-card"><h2>Haruka</h2><div class="pronounce">hah-ROO-kah</div><div class="meaning">Distant · Spring fragrance</div><p>Meaning "distant" or "spring fragrance," Haruka symbolizes calmness and hope.</p><div class="origin-tag">🌸 calm</div></div>
+    <div class="name-card"><h2>Noa</h2><div class="pronounce">NOH-ah</div><div class="meaning">Love · Affection · Hope</div><p>Noa can mean "love," "affection," or "hope," depending on the kanji selected.</p><div class="origin-tag">❤️ love</div></div>
+    <div class="name-card"><h2>Koharu</h2><div class="pronounce">koh-HAH-roo</div><div class="meaning">Small spring</div><p>Meaning "small spring," Koharu captures the warmth and beauty of the season.</p><div class="origin-tag">🌱 spring</div></div>
+    <div class="name-card"><h2>Ichika</h2><div class="pronounce">ee-CHEE-kah</div><div class="meaning">One flower</div><p>Meaning "one flower," Ichika reflects uniqueness and elegance.</p><div class="origin-tag">🌸 unique</div></div>
+    <div class="name-card"><h2>Himari</h2><div class="pronounce">hee-MAH-ree</div><div class="meaning">Sunflower · Sunlight</div><p>Meaning "sunflower" or "sunlight," Himari has become one of Japan's fastest-growing girls' names.</p><div class="origin-tag">🌻 sunflower</div></div>
+    <div class="name-card"><h2>Saki</h2><div class="pronounce">SAH-kee</div><div class="meaning">Blossom · Hope · Future</div><p>Meaning "blossom," "hope," or "future," Saki represents optimism.</p><div class="origin-tag">🌟 future</div></div>
+    <div class="name-card"><h2>Kaede</h2><div class="pronounce">kah-EH-deh</div><div class="meaning">Maple leaf</div><p>Meaning "maple leaf," Kaede is inspired by Japan's colorful autumn landscapes.</p><div class="origin-tag">🍁 autumn</div></div>
+    <div class="name-card"><h2>Misaki</h2><div class="pronounce">mee-SAH-kee</div><div class="meaning">Beautiful blossom · Beautiful cape</div><p>Meaning "beautiful blossom" or "beautiful cape," Misaki combines elegance with natural beauty.</p><div class="origin-tag">🌊 elegant</div></div>
+    <div class="name-card"><h2>Riko</h2><div class="pronounce">REE-koh</div><div class="meaning">Child of jasmine · Truth</div><p>Meaning "child of jasmine" or "truth," depending on the kanji.</p><div class="origin-tag">🌸 jasmine</div></div>
+    <div class="name-card"><h2>Suzune</h2><div class="pronounce">soo-ZOO-neh</div><div class="meaning">Bell sound</div><p>Meaning "bell sound," Suzune evokes gentle music and peacefulness.</p><div class="origin-tag">🔔 peaceful</div></div>
+    <div class="name-card"><h2>Natsumi</h2><div class="pronounce">nah-TSOO-mee</div><div class="meaning">Beautiful summer</div><p>Meaning "beautiful summer," Natsumi celebrates warmth and sunshine.</p><div class="origin-tag">☀️ summer</div></div>
+    <div class="name-card"><h2>Yuri</h2><div class="pronounce">YOO-ree</div><div class="meaning">Lily flower</div><p>Meaning "lily flower," Yuri symbolizes purity and grace.</p><div class="origin-tag">🌷 lily</div></div>
+    <div class="name-card"><h2>Shiori</h2><div class="pronounce">shee-OH-ree</div><div class="meaning">Poem · Bookmark · Guide</div><p>Meaning "poem," "bookmark," or "guide," depending on the kanji, Shiori is associated with wisdom and creativity.</p><div class="origin-tag">📖 wisdom</div></div>
+
+  </div>
+
+  <!-- BOYS -->
+  <h2 class="section-title">⚔️ Boys' Japanese baby names</h2>
+  <div class="card-grid">
+
+    <div class="name-card"><h2>Haruto</h2><div class="pronounce">hah-ROO-toh</div><div class="meaning">Sunlight flying · Soaring sun</div><p>Meaning "sunlight flying" or "soaring sun," Haruto has consistently ranked among Japan's most popular boys' names.</p><div class="origin-tag">☀️ popular</div></div>
+    <div class="name-card"><h2>Ren</h2><div class="pronounce">REN</div><div class="meaning">Lotus · Love · Refined</div><p>Meaning "lotus," "love," or "refined," Ren is admired for its simplicity and elegance.</p><div class="origin-tag">🪷 elegant</div></div>
+    <div class="name-card"><h2>Sota</h2><div class="pronounce">SOH-tah</div><div class="meaning">Great sky</div><p>Meaning "great sky," Sota symbolizes freedom and ambition.</p><div class="origin-tag">🌤️ freedom</div></div>
+    <div class="name-card"><h2>Yuto</h2><div class="pronounce">YOO-toh</div><div class="meaning">Gentleness · Superiority · Flying</div><p>Yuto combines meanings such as "gentleness," "superiority," or "flying," depending on the kanji.</p><div class="origin-tag">🕊️ gentle</div></div>
+    <div class="name-card"><h2>Kaito</h2><div class="pronounce">KAH-ee-toh</div><div class="meaning">Ocean · Soar</div><p>Meaning "ocean" and "soar," Kaito is perfect for families who love nature.</p><div class="origin-tag">🌊 ocean</div></div>
+    <div class="name-card"><h2>Minato</h2><div class="pronounce">mee-NAH-toh</div><div class="meaning">Harbor</div><p>Meaning "harbor," Minato represents safety, strength, and new beginnings.</p><div class="origin-tag">⚓ harbor</div></div>
+    <div class="name-card"><h2>Itsuki</h2><div class="pronounce">ee-TSOO-kee</div><div class="meaning">Tree</div><p>Meaning "tree," Itsuki symbolizes stability and growth.</p><div class="origin-tag">🌳 stable</div></div>
+    <div class="name-card"><h2>Daiki</h2><div class="pronounce">DAH-ee-kee</div><div class="meaning">Great brightness · Great tree</div><p>Daiki can mean "great brightness" or "great tree," depending on the kanji.</p><div class="origin-tag">✨ bright</div></div>
+    <div class="name-card"><h2>Hiroto</h2><div class="pronounce">hee-ROH-toh</div><div class="meaning">Great flight · Abundant person</div><p>Meaning "great flight" or "abundant person," depending on the kanji.</p><div class="origin-tag">🦅 flight</div></div>
+    <div class="name-card"><h2>Takumi</h2><div class="pronounce">tah-KOO-mee</div><div class="meaning">Artisan · Master craftsman</div><p>Meaning "artisan" or "master craftsman," Takumi reflects skill and creativity.</p><div class="origin-tag">🛠️ craftsman</div></div>
+    <div class="name-card"><h2>Riku</h2><div class="pronounce">REE-koo</div><div class="meaning">Land</div><p>Meaning "land," Riku is short, modern, and increasingly popular.</p><div class="origin-tag">🌍 land</div></div>
+    <div class="name-card"><h2>Kenta</h2><div class="pronounce">KEN-tah</div><div class="meaning">Healthy and strong</div><p>Meaning "healthy and strong," Kenta has been a favorite for decades.</p><div class="origin-tag">💪 strong</div></div>
+    <div class="name-card"><h2>Yuki</h2><div class="pronounce">YOO-kee</div><div class="meaning">Happiness · Snow</div><p>Meaning "happiness" or "snow," Yuki is used for both boys and girls in Japan.</p><div class="origin-tag">❄️ happiness</div></div>
+    <div class="name-card"><h2>Sho</h2><div class="pronounce">SHOH</div><div class="meaning">To soar · To shine</div><p>Meaning "to soar" or "to shine," Sho is energetic and modern.</p><div class="origin-tag">⭐ shine</div></div>
+    <div class="name-card"><h2>Akira</h2><div class="pronounce">ah-KEE-rah</div><div class="meaning">Bright · Clear · Intelligent</div><p>Meaning "bright," "clear," or "intelligent," Akira has remained popular for generations.</p><div class="origin-tag">🧠 bright</div></div>
+    <div class="name-card"><h2>Kenji</h2><div class="pronounce">KEN-jee</div><div class="meaning">Strong second son · Healthy ruler</div><p>Meaning "strong second son" or "healthy ruler," depending on the kanji.</p><div class="origin-tag">⚔️ ruler</div></div>
+    <div class="name-card"><h2>Ryota</h2><div class="pronounce">ree-OH-tah</div><div class="meaning">Refreshing · Great · Strong</div><p>Ryota can mean "refreshing," "great," or "strong," depending on the characters.</p><div class="origin-tag">💪 great</div></div>
+    <div class="name-card"><h2>Tsubasa</h2><div class="pronounce">tsoo-BAH-sah</div><div class="meaning">Wings</div><p>Meaning "wings," Tsubasa symbolizes freedom and limitless potential.</p><div class="origin-tag">🕊️ wings</div></div>
+    <div class="name-card"><h2>Naoki</h2><div class="pronounce">nah-OH-kee</div><div class="meaning">Honest tree · Upright</div><p>Meaning "honest tree" or "upright," Naoki represents integrity.</p><div class="origin-tag">🌳 integrity</div></div>
+    <div class="name-card"><h2>Kazuki</h2><div class="pronounce">kah-ZOO-kee</div><div class="meaning">Harmonious hope</div><p>Meaning "harmonious hope," Kazuki is associated with peace and optimism.</p><div class="origin-tag">☮️ hope</div></div>
+    <div class="name-card"><h2>Hayato</h2><div class="pronounce">hah-YAH-toh</div><div class="meaning">Falcon person · Swift</div><p>Meaning "falcon person" or "swift," Hayato symbolizes speed and courage.</p><div class="origin-tag">🦅 swift</div></div>
+    <div class="name-card"><h2>Masato</h2><div class="pronounce">mah-SAH-toh</div><div class="meaning">Righteous person</div><p>Meaning "righteous person," Masato reflects honesty and leadership.</p><div class="origin-tag">⚖️ righteous</div></div>
+    <div class="name-card"><h2>Shota</h2><div class="pronounce">SHOH-tah</div><div class="meaning">Soaring · Big</div><p>Meaning "soaring" or "big," depending on the kanji.</p><div class="origin-tag">🚀 soaring</div></div>
+    <div class="name-card"><h2>Yuji</h2><div class="pronounce">YOO-jee</div><div class="meaning">Gentle second son · Courage</div><p>Yuji has remained a classic Japanese name, meaning "gentle second son" or "courage."</p><div class="origin-tag">🛡️ courage</div></div>
+    <div class="name-card"><h2>Tomoya</h2><div class="pronounce">toh-MOH-yah</div><div class="meaning">Wise friend</div><p>Meaning "wise friend," Tomoya represents loyalty and intelligence.</p><div class="origin-tag">🤝 wise</div></div>
+
+  </div>
+
+  <!-- note on kanji and pronunciation -->
+  <div class="note-card">
+    <h3>📝 A note on kanji and pronunciation</h3>
+    <p>
+      Unlike many Western names, Japanese names are often written using kanji, and each character
+      contributes its own meaning. This means that the same pronunciation can have several different
+      meanings depending on the characters chosen by the parents.
+    </p>
+    <p style="margin-top: 12px;">
+      Japanese pronunciation is generally straightforward once you learn the vowel sounds.
+      Every syllable is pronounced clearly, making names like <strong>Haruto</strong>,
+      <strong>Sakura</strong>, <strong>Ren</strong>, and <strong>Yuna</strong> both beautiful
+      and easy to say.
+    </p>
+  </div>
+
+  <!-- final message -->
+  <div class="final-message">
+    <h3>🎌 Find your favorite Japanese baby name</h3>
+    <p>
+      Whether you're inspired by Japan's stunning natural landscapes, rich traditions, or
+      beautiful language, Japanese baby names offer timeless choices filled with meaning.
+      Add your favorite names to the Name Generator Wheel and spin to discover the perfect
+      name for your little one.
+    </p>
+  </div>
+
+  <!-- footer -->
+  <footer class="footer">
+    <p>&copy; 2026 NameGeneratorForBaby.com. All rights reserved.</p>
+    <div style="margin-top: 12px;">
+     
+    </div>
+  </footer>
+
+</div>
+<!-- end container -->
+</body>
+</html>
