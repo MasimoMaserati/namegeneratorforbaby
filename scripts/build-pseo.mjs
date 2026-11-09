@@ -81,8 +81,8 @@ footer{text-align:center;padding:25px;color:var(--muted);font-size:.9rem;border-
 // Preserve existing URLs (including individual-name and legal pages) when rebuilding.
 const sitemapPath = path.join(root, 'sitemap.xml');
 const priorSitemap = fs.existsSync(sitemapPath) ? fs.readFileSync(sitemapPath, 'utf8') : '';
-const priorUrls = [...priorSitemap.matchAll(/<loc>\\s*(.*?)\\s*<\\/loc>/g)].map(match => match[1]);
+const priorUrls = [...priorSitemap.matchAll(/<loc>\s*(.*?)\s*<\/loc>/g)].map(match => match[1]);
 const allUrls = [...new Set([...priorUrls, `${origin}/`, ...pages])].sort();
-const sitemap = ['<?xml version="1.0" encoding="UTF-8"?>','<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',...allUrls.map(u=>`  <url><loc>${u}</loc></url>`),'</urlset>'].join('\\n');
-fs.writeFileSync(sitemapPath,sitemap+'\\n');
+const sitemap = ['<?xml version="1.0" encoding="UTF-8"?>','<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',...allUrls.map(u=>`  <url><loc>${u}</loc></url>`),'</urlset>'].join('\n');
+fs.writeFileSync(sitemapPath,sitemap+'\n');
 console.log(`Generated ${pages.length} pSEO category pages and sitemap.xml with ${allUrls.length} URLs`);
