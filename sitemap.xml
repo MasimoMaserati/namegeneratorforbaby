@@ -1,11 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
-
-  <url>
-    <loc>https://namegeneratorforbaby.com/</loc>
-    <lastmod>2026-07-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://namegeneratorforbaby.com/</loc></url>
+  <url><loc>https://namegeneratorforbaby.com/about/</loc></url>
+  <url><loc>https://namegeneratorforbaby.com/faq/</loc></url>
+  <url><loc>https://namegeneratorforbaby.com/privacy/</loc></url>
+  <url><loc>https://namegeneratorforbaby.com/terms/</loc></url>
+  <url><loc>https://namegeneratorforbaby.com/biblical-baby-names/</loc></url>
+  <url><loc>https://namegeneratorforbaby.com/irish-baby-names/</loc></url>
+  <url><loc>https://namegeneratorforbaby.com/japanese-baby-names/</loc></url>
+  <url><loc>https://namegeneratorforbaby.com/names/aoife/</loc></url>
+  <url><loc>https://namegeneratorforbaby.com/names/caoimhe/</loc></url>
+  <url><loc>https://namegeneratorforbaby.com/names/ezekiel/</loc></url>
+  <url><loc>https://namegeneratorforbaby.com/names/haruto/</loc></url>
+  <url><loc>https://namegeneratorforbaby.com/names/michal/</loc></url>
+  <url><loc>https://namegeneratorforbaby.com/names/niamh/</loc></url>
+  <url><loc>https://namegeneratorforbaby.com/names/rebekah/</loc></url>
+  <url><loc>https://namegeneratorforbaby.com/names/ren/</loc></url>
+  <url><loc>https://namegeneratorforbaby.com/names/sakura/</loc></url>
+  <url><loc>https://namegeneratorforbaby.com/names/saoirse/</loc></url>
+  <url><loc>https://namegeneratorforbaby.com/names/tadhg/</loc></url>
+  <url><loc>https://namegeneratorforbaby.com/names/yuna/</loc></url>
+  <url><loc>https://namegeneratorforbaby.com/names/zipporah/</loc></url>
+  <url><loc>https://namegeneratorforbaby.com/boy-names/</loc></url>
+  <url><loc>https://namegeneratorforbaby.com/girl-names/</loc></url>
+  <url><loc>https://namegeneratorforbaby.com/gender-neutral-baby-names/</loc></url>
+  <url><loc>https://namegeneratorforbaby.com/unique-baby-names/</loc></url>
+  <url><loc>https://namegeneratorforbaby.com/short-baby-names/</loc></url>
+  <url><loc>https://namegeneratorforbaby.com/names-that-mean-love/</loc></url>
+  <url><loc>https://namegeneratorforbaby.com/names-that-mean-light/</loc></url>
+  <url><loc>https://namegeneratorforbaby.com/vintage-baby-names/</loc></url>
+  <url><loc>https://namegeneratorforbaby.com/nature-baby-names/</loc></url>
+  <url><loc>https://namegeneratorforbaby.com/biblical-boy-names/</loc></url>
 </urlset>
