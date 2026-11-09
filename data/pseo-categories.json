@@ -1,0 +1,814 @@
+{
+  "categories": [
+    {
+      "slug": "boy-names",
+      "title": "Boy Names",
+      "keyword": "boy names",
+      "description": "Explore thoughtful baby boy names with meanings, origins and pronunciation notes. Browse classic, modern and distinctive ideas before choosing a name.",
+      "intro": "Choosing a name for a baby boy is a personal decision. This collection brings together familiar classics and distinctive choices, with concise meaning and origin notes to help you compare them.",
+      "names": [
+        [
+          "Liam",
+          "Irish",
+          "Resolute protector",
+          "LEE-əm"
+        ],
+        [
+          "Noah",
+          "Hebrew",
+          "Rest, comfort",
+          "NOH-uh"
+        ],
+        [
+          "Oliver",
+          "Latin",
+          "Olive tree",
+          "OL-ih-ver"
+        ],
+        [
+          "Ethan",
+          "Hebrew",
+          "Strong, enduring",
+          "EE-thən"
+        ],
+        [
+          "James",
+          "Hebrew",
+          "Traditionally associated with supplanting",
+          "JAYMZ"
+        ],
+        [
+          "Lucas",
+          "Latin",
+          "From Lucania; associated with light",
+          "LOO-kəs"
+        ],
+        [
+          "Theodore",
+          "Greek",
+          "Gift of God",
+          "THEE-uh-dor"
+        ],
+        [
+          "Arthur",
+          "Celtic",
+          "Often linked with bear imagery",
+          "AR-thər"
+        ],
+        [
+          "Ezra",
+          "Hebrew",
+          "Help",
+          "EZ-ruh"
+        ],
+        [
+          "Felix",
+          "Latin",
+          "Happy, fortunate",
+          "FEE-liks"
+        ],
+        [
+          "Kai",
+          "Multiple origins",
+          "Meaning varies by language and culture",
+          "KYE"
+        ],
+        [
+          "Rowan",
+          "Irish / Gaelic",
+          "Rowan tree",
+          "ROH-ən"
+        ]
+      ]
+    },
+    {
+      "slug": "girl-names",
+      "title": "Girl Names",
+      "keyword": "girl names",
+      "description": "Discover baby girl names with meaning, origin and pronunciation notes, from timeless favorites to fresh and uncommon ideas.",
+      "intro": "A baby girl's name can feel classic, modern, delicate or bold. Explore a varied shortlist with background notes to help you find a name that feels right for your family.",
+      "names": [
+        [
+          "Amelia",
+          "Germanic",
+          "Work",
+          "uh-MEE-lee-uh"
+        ],
+        [
+          "Olivia",
+          "Latin",
+          "Olive tree",
+          "oh-LIV-ee-uh"
+        ],
+        [
+          "Isla",
+          "Scottish",
+          "Island",
+          "EYE-luh"
+        ],
+        [
+          "Maya",
+          "Multiple origins",
+          "Meaning varies by language and culture",
+          "MY-uh"
+        ],
+        [
+          "Sofia",
+          "Greek",
+          "Wisdom",
+          "soh-FEE-uh"
+        ],
+        [
+          "Evelyn",
+          "English / French",
+          "Historically associated with desired or wished-for",
+          "EV-uh-lin"
+        ],
+        [
+          "Clara",
+          "Latin",
+          "Clear, bright",
+          "KLAIR-uh"
+        ],
+        [
+          "Nora",
+          "Irish / Latin",
+          "Often associated with honor or light",
+          "NOR-uh"
+        ],
+        [
+          "Zoe",
+          "Greek",
+          "Life",
+          "ZOH-ee"
+        ],
+        [
+          "Iris",
+          "Greek",
+          "Rainbow",
+          "EYE-ris"
+        ],
+        [
+          "Freya",
+          "Old Norse",
+          "Norse goddess name",
+          "FRAY-uh"
+        ],
+        [
+          "Elena",
+          "Greek",
+          "Often associated with light or brightness",
+          "eh-LAY-nuh"
+        ]
+      ]
+    },
+    {
+      "slug": "gender-neutral-baby-names",
+      "title": "Gender-Neutral Baby Names",
+      "keyword": "gender neutral baby names",
+      "description": "Browse gender-neutral baby name ideas with origin and meaning notes. Discover flexible names used across different cultures and naming traditions.",
+      "intro": "Gender-neutral names can offer a sense of flexibility and personal style. Usage varies across countries and generations, so consider the cultural context as well as sound and meaning.",
+      "names": [
+        [
+          "Alex",
+          "Greek",
+          "Defender of people; often a short form",
+          "AL-eks"
+        ],
+        [
+          "Avery",
+          "English / French",
+          "Often associated with elf counsel",
+          "AY-vuh-ree"
+        ],
+        [
+          "Riley",
+          "Irish",
+          "Courageous or valiant",
+          "RYE-lee"
+        ],
+        [
+          "Jordan",
+          "Hebrew",
+          "To flow down; associated with the Jordan River",
+          "JOR-dən"
+        ],
+        [
+          "Quinn",
+          "Irish",
+          "Descendant of Conn; often linked with wisdom",
+          "KWIN"
+        ],
+        [
+          "Sage",
+          "Latin / English",
+          "Wise; also an herb",
+          "SAYJ"
+        ],
+        [
+          "Rowan",
+          "Irish / Gaelic",
+          "Rowan tree",
+          "ROH-ən"
+        ],
+        [
+          "Morgan",
+          "Welsh",
+          "Traditional Welsh name with debated elements",
+          "MOR-gən"
+        ],
+        [
+          "Emerson",
+          "English",
+          "Son of Emery",
+          "EM-er-sən"
+        ],
+        [
+          "Robin",
+          "Germanic",
+          "Bright fame; also a bird name",
+          "ROB-in"
+        ],
+        [
+          "Ari",
+          "Multiple origins",
+          "Meaning varies by language and culture",
+          "AH-ree"
+        ],
+        [
+          "Noel",
+          "French",
+          "Christmas",
+          "noh-EL"
+        ]
+      ]
+    },
+    {
+      "slug": "unique-baby-names",
+      "title": "Unique Baby Names",
+      "keyword": "unique baby names",
+      "description": "Find distinctive baby name inspiration with cultural background, pronunciation and meaning notes. Explore uncommon choices without losing sight of usability.",
+      "intro": "A distinctive name can stand out while still feeling natural to say and spell. This selection mixes less-common choices and names with strong cultural roots; popularity varies by country.",
+      "names": [
+        [
+          "Aurelia",
+          "Latin",
+          "Golden",
+          "aw-REE-lee-uh"
+        ],
+        [
+          "Cassian",
+          "Latin",
+          "Of the Cassius family",
+          "KASH-ən"
+        ],
+        [
+          "Elio",
+          "Italian / Spanish",
+          "Sun",
+          "EH-lee-oh"
+        ],
+        [
+          "Zora",
+          "Slavic",
+          "Dawn",
+          "ZOR-uh"
+        ],
+        [
+          "Soren",
+          "Danish",
+          "Often associated with stern",
+          "SOR-en"
+        ],
+        [
+          "Liora",
+          "Hebrew",
+          "My light",
+          "lee-OR-uh"
+        ],
+        [
+          "Zephyr",
+          "Greek",
+          "West wind",
+          "ZEF-er"
+        ],
+        [
+          "Anouk",
+          "French / Dutch",
+          "Form of Anna",
+          "ah-NOOK"
+        ],
+        [
+          "Caius",
+          "Latin",
+          "Rejoice",
+          "KYE-us"
+        ],
+        [
+          "Ione",
+          "Greek",
+          "Violet flower",
+          "eye-OH-nee"
+        ],
+        [
+          "Marlowe",
+          "English",
+          "Driftwood",
+          "MAR-loh"
+        ],
+        [
+          "Orla",
+          "Irish",
+          "Golden princess",
+          "OR-lah"
+        ]
+      ]
+    },
+    {
+      "slug": "short-baby-names",
+      "title": "Short Baby Names",
+      "keyword": "short baby names",
+      "description": "Explore short baby names that are easy to say and remember, with concise origin, meaning and pronunciation information.",
+      "intro": "Short names can be memorable, easy to pair with longer surnames and simple to pronounce. Here are compact choices from several naming traditions.",
+      "names": [
+        [
+          "Ada",
+          "Germanic",
+          "Noble",
+          "AY-duh"
+        ],
+        [
+          "Leo",
+          "Latin",
+          "Lion",
+          "LEE-oh"
+        ],
+        [
+          "Mia",
+          "Multiple origins",
+          "Meaning varies by language and culture",
+          "MEE-uh"
+        ],
+        [
+          "Eve",
+          "Hebrew",
+          "Life",
+          "EEV"
+        ],
+        [
+          "Ian",
+          "Scottish Gaelic",
+          "God is gracious",
+          "EE-ən"
+        ],
+        [
+          "Max",
+          "Latin",
+          "Greatest; often a short form",
+          "MAKS"
+        ],
+        [
+          "Ivy",
+          "English",
+          "Ivy plant",
+          "EYE-vee"
+        ],
+        [
+          "Kai",
+          "Multiple origins",
+          "Meaning varies by language and culture",
+          "KYE"
+        ],
+        [
+          "Ava",
+          "Multiple origins",
+          "Meaning varies by language and culture",
+          "AY-vuh"
+        ],
+        [
+          "Beau",
+          "French",
+          "Handsome",
+          "BOH"
+        ],
+        [
+          "Jude",
+          "Hebrew",
+          "Praised",
+          "JOOD"
+        ],
+        [
+          "Nia",
+          "Swahili / Welsh",
+          "Purpose; meanings vary by origin",
+          "NEE-uh"
+        ]
+      ]
+    },
+    {
+      "slug": "names-that-mean-love",
+      "title": "Baby Names That Mean Love",
+      "keyword": "names that mean love",
+      "description": "Discover baby names associated with love, affection and beloved meanings, with origin and pronunciation notes. Meanings can vary across languages and sources.",
+      "intro": "Names connected with love can express affection and family bonds. Some meanings translate directly, while others are traditional interpretations or associations; check the cultural origin that matters to you.",
+      "names": [
+        [
+          "Amara",
+          "Igbo / Sanskrit",
+          "Meaning varies by origin; includes grace or immortality",
+          "uh-MAR-uh"
+        ],
+        [
+          "Esme",
+          "French",
+          "Esteemed, loved",
+          "EZ-may"
+        ],
+        [
+          "Mila",
+          "Slavic",
+          "Gracious or dear",
+          "MEE-luh"
+        ],
+        [
+          "Cara",
+          "Italian / Irish",
+          "Beloved or friend, depending on origin",
+          "KAR-uh"
+        ],
+        [
+          "David",
+          "Hebrew",
+          "Beloved",
+          "DAY-vid"
+        ],
+        [
+          "Priya",
+          "Sanskrit",
+          "Beloved",
+          "PREE-yuh"
+        ],
+        [
+          "Aiko",
+          "Japanese",
+          "Often interpreted as beloved child; kanji-dependent",
+          "EYE-koh"
+        ],
+        [
+          "Carys",
+          "Welsh",
+          "Love",
+          "KA-ris"
+        ],
+        [
+          "Dara",
+          "Multiple origins",
+          "Meaning varies by language and culture",
+          "DAH-ruh"
+        ],
+        [
+          "Mabel",
+          "Latin",
+          "Lovable",
+          "MAY-bəl"
+        ],
+        [
+          "Mina",
+          "Multiple origins",
+          "Meaning varies by language and culture",
+          "MEE-nuh"
+        ],
+        [
+          "Sajan",
+          "Sanskrit / Hindi",
+          "Beloved",
+          "suh-JUN"
+        ]
+      ]
+    },
+    {
+      "slug": "names-that-mean-light",
+      "title": "Baby Names That Mean Light",
+      "keyword": "baby names that mean light",
+      "description": "Explore baby names meaning light, bright, shining or dawn, with origin and pronunciation notes for each name.",
+      "intro": "Light-related names often evoke hope, clarity and new beginnings. Some refer directly to light, while others are associated with brightness, dawn or the sun.",
+      "names": [
+        [
+          "Lucia",
+          "Latin",
+          "Light",
+          "loo-SEE-uh"
+        ],
+        [
+          "Eleanor",
+          "Greek / Occitan",
+          "Traditional meaning debated; often associated with light",
+          "EL-uh-nor"
+        ],
+        [
+          "Roxana",
+          "Persian",
+          "Bright, dawn",
+          "rok-SAH-nuh"
+        ],
+        [
+          "Zia",
+          "Arabic / Latin",
+          "Light or splendor, depending on origin",
+          "ZEE-uh"
+        ],
+        [
+          "Noor",
+          "Arabic",
+          "Light",
+          "NOOR"
+        ],
+        [
+          "Kiran",
+          "Sanskrit",
+          "Ray of light",
+          "KEE-rən"
+        ],
+        [
+          "Uri",
+          "Hebrew",
+          "My light",
+          "OO-ree"
+        ],
+        [
+          "Ayla",
+          "Turkish / Hebrew",
+          "Meaning varies by origin; moonlight or oak-associated interpretations",
+          "EYE-luh"
+        ],
+        [
+          "Lior",
+          "Hebrew",
+          "I have light",
+          "lee-OR"
+        ],
+        [
+          "Chiara",
+          "Italian",
+          "Clear, bright",
+          "kee-AH-rah"
+        ],
+        [
+          "Niamh",
+          "Irish",
+          "Bright, radiant",
+          "NEEV"
+        ],
+        [
+          "Elio",
+          "Italian / Spanish",
+          "Sun",
+          "EH-lee-oh"
+        ]
+      ]
+    },
+    {
+      "slug": "vintage-baby-names",
+      "title": "Vintage Baby Names",
+      "keyword": "vintage baby names",
+      "description": "Rediscover vintage baby names with classic character, including origin, meaning and pronunciation notes for each choice.",
+      "intro": "Vintage names can feel familiar, elegant and enduring. This collection revisits names used across earlier generations that continue to appeal to modern parents.",
+      "names": [
+        [
+          "Beatrice",
+          "Latin",
+          "She who brings happiness",
+          "BEE-uh-tris"
+        ],
+        [
+          "Edith",
+          "Old English",
+          "Riches, blessed",
+          "EE-dith"
+        ],
+        [
+          "Arthur",
+          "Celtic",
+          "Often linked with bear imagery",
+          "AR-thər"
+        ],
+        [
+          "Walter",
+          "Germanic",
+          "Ruler of the army",
+          "WAWL-ter"
+        ],
+        [
+          "Mabel",
+          "Latin",
+          "Lovable",
+          "MAY-bəl"
+        ],
+        [
+          "Florence",
+          "Latin",
+          "Flourishing",
+          "FLOR-əns"
+        ],
+        [
+          "Theodore",
+          "Greek",
+          "Gift of God",
+          "THEE-uh-dor"
+        ],
+        [
+          "Agnes",
+          "Greek",
+          "Pure, holy",
+          "AG-nəs"
+        ],
+        [
+          "Felix",
+          "Latin",
+          "Happy, fortunate",
+          "FEE-liks"
+        ],
+        [
+          "Clara",
+          "Latin",
+          "Clear, bright",
+          "KLAIR-uh"
+        ],
+        [
+          "Otis",
+          "Germanic",
+          "Wealth, fortune",
+          "OH-tis"
+        ],
+        [
+          "Cecilia",
+          "Latin",
+          "Associated with the Roman family name Caecilius",
+          "suh-SEEL-yuh"
+        ]
+      ]
+    },
+    {
+      "slug": "nature-baby-names",
+      "title": "Nature Baby Names",
+      "keyword": "nature baby names",
+      "description": "Find baby names inspired by nature, flowers, trees, seasons and the natural world, with origin and meaning notes.",
+      "intro": "Nature-inspired names connect a child’s name with the world around us. This list includes botanical names, landscapes, natural elements and names associated with animals.",
+      "names": [
+        [
+          "Iris",
+          "Greek",
+          "Rainbow; also a flower",
+          "EYE-ris"
+        ],
+        [
+          "Willow",
+          "English",
+          "Willow tree",
+          "WIL-oh"
+        ],
+        [
+          "River",
+          "English",
+          "Flowing body of water",
+          "RIV-er"
+        ],
+        [
+          "Lily",
+          "English",
+          "Lily flower",
+          "LIL-ee"
+        ],
+        [
+          "Rowan",
+          "Irish / Gaelic",
+          "Rowan tree",
+          "ROH-ən"
+        ],
+        [
+          "Jasper",
+          "Persian",
+          "Traditional name for a gemstone",
+          "JAS-per"
+        ],
+        [
+          "Flora",
+          "Latin",
+          "Flower",
+          "FLOR-uh"
+        ],
+        [
+          "Sage",
+          "Latin / English",
+          "Wise; also an herb",
+          "SAYJ"
+        ],
+        [
+          "Dahlia",
+          "Swedish / Latinized",
+          "Named after botanist Anders Dahl",
+          "DAY-lee-uh"
+        ],
+        [
+          "Clementine",
+          "Latin",
+          "Merciful, gentle",
+          "KLEM-ən-teen"
+        ],
+        [
+          "Orion",
+          "Greek",
+          "Constellation and mythological hunter",
+          "oh-RYE-ən"
+        ],
+        [
+          "Hazel",
+          "English",
+          "Hazel tree",
+          "HAY-zəl"
+        ]
+      ]
+    },
+    {
+      "slug": "biblical-boy-names",
+      "title": "Biblical Boy Names",
+      "keyword": "biblical boy names",
+      "description": "Explore biblical boy names with concise meaning, language and pronunciation notes, including familiar and less common names from scripture.",
+      "intro": "Biblical names come from Hebrew, Aramaic and Greek traditions and have been adapted across many languages. Meanings and spellings can differ between translations and traditions.",
+      "names": [
+        [
+          "Noah",
+          "Hebrew",
+          "Rest, comfort",
+          "NOH-uh"
+        ],
+        [
+          "Ethan",
+          "Hebrew",
+          "Strong, enduring",
+          "EE-thən"
+        ],
+        [
+          "Ezra",
+          "Hebrew",
+          "Help",
+          "EZ-ruh"
+        ],
+        [
+          "Levi",
+          "Hebrew",
+          "Often interpreted as joined or attached",
+          "LEE-vye"
+        ],
+        [
+          "Asher",
+          "Hebrew",
+          "Happy, blessed",
+          "ASH-er"
+        ],
+        [
+          "Caleb",
+          "Hebrew",
+          "Traditional meaning debated; often associated with devotion",
+          "KAY-ləb"
+        ],
+        [
+          "Micah",
+          "Hebrew",
+          "Who is like God?",
+          "MY-kuh"
+        ],
+        [
+          "Jonah",
+          "Hebrew",
+          "Dove",
+          "JOH-nuh"
+        ],
+        [
+          "Elijah",
+          "Hebrew",
+          "My God is Yahweh",
+          "ih-LYE-juh"
+        ],
+        [
+          "Gabriel",
+          "Hebrew",
+          "God is my strength",
+          "GAY-bree-əl"
+        ],
+        [
+          "Silas",
+          "Latin / Greek",
+          "Possibly related to the forest",
+          "SY-ləs"
+        ],
+        [
+          "Malachi",
+          "Hebrew",
+          "My messenger",
+          "MAL-uh-kye"
+        ]
+      ]
+    }
+  ]
+}
