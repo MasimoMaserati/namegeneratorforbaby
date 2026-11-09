@@ -69,9 +69,9 @@
         ],
         [
           "Kai",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "KYE"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Rowan",
@@ -108,9 +108,9 @@
         ],
         [
           "Maya",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "MY-uh"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Sofia",
@@ -231,9 +231,9 @@
         ],
         [
           "Ari",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "AH-ree"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Noel",
@@ -345,9 +345,9 @@
         ],
         [
           "Mia",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "MEE-uh"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Eve",
@@ -375,15 +375,15 @@
         ],
         [
           "Kai",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "KYE"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Ava",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "AY-vuh"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Beau",
@@ -462,9 +462,9 @@
         ],
         [
           "Dara",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "DAH-ruh"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Mabel",
@@ -474,9 +474,9 @@
         ],
         [
           "Mina",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "MEE-nuh"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Sajan",
@@ -811,63 +811,6 @@
       ]
     },
     {
-      "slug": "irish-girl-names",
-      "title": "Irish Girl Names",
-      "keyword": "Irish girl names",
-      "description": "Explore Irish girl names with Gaelic roots, pronunciation guidance and cultural background, from familiar favorites to distinctive choices.",
-      "intro": "Irish naming traditions include names with deep linguistic and cultural histories. Spellings and pronunciations can vary by dialect and family tradition.",
-      "names": [
-        [
-          "Maeve",
-          "Irish",
-          "Traditional Irish name; meaning debated",
-          "MAYV"
-        ],
-        [
-          "Nora",
-          "Irish / Latin",
-          "Meanings vary by origin",
-          "NOR-uh"
-        ],
-        [
-          "Orla",
-          "Irish",
-          "Golden princess",
-          "OR-lah"
-        ],
-        [
-          "Saoirse",
-          "Irish",
-          "Freedom",
-          "SEER-shuh"
-        ],
-        [
-          "Carys",
-          "Welsh",
-          "Love",
-          "KA-ris"
-        ],
-        [
-          "Ronan",
-          "Irish",
-          "Little seal",
-          "ROH-nən"
-        ],
-        [
-          "Mila",
-          "Slavic",
-          "Gracious, dear",
-          "MEE-luh"
-        ],
-        [
-          "Nia",
-          "Swahili / Welsh",
-          "Purpose; meanings vary by origin",
-          "NEE-uh"
-        ]
-      ]
-    },
-    {
       "slug": "irish-boy-names",
       "title": "Irish Boy Names",
       "keyword": "Irish boy names",
@@ -921,120 +864,6 @@
           "Greek / Italian",
           "Victory of the people; short form",
           "NEE-koh"
-        ]
-      ]
-    },
-    {
-      "slug": "scottish-baby-names",
-      "title": "Scottish Baby Names",
-      "keyword": "Scottish baby names",
-      "description": "Browse Scottish baby name ideas with cultural context, origins and pronunciation notes.",
-      "intro": "Scottish naming draws on Gaelic, Scots and wider British traditions. Some names are shared across neighboring cultures.",
-      "names": [
-        [
-          "Isla",
-          "Scottish",
-          "Island",
-          "EYE-luh"
-        ],
-        [
-          "Callum",
-          "Scottish Gaelic",
-          "Dove",
-          "KAL-əm"
-        ],
-        [
-          "Ewan",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
-        ],
-        [
-          "Ronan",
-          "Irish",
-          "Little seal",
-          "ROH-nən"
-        ],
-        [
-          "Ada",
-          "Germanic",
-          "Noble",
-          "AY-duh"
-        ],
-        [
-          "Nora",
-          "Irish / Latin",
-          "Meanings vary by origin",
-          "NOR-uh"
-        ],
-        [
-          "Finn",
-          "Irish",
-          "Fair, white",
-          "FIN"
-        ],
-        [
-          "Rowan",
-          "Irish / Gaelic",
-          "Rowan tree",
-          "ROH-ən"
-        ]
-      ]
-    },
-    {
-      "slug": "welsh-baby-names",
-      "title": "Welsh Baby Names",
-      "keyword": "Welsh baby names",
-      "description": "Explore Welsh baby names and names used in Wales, with background and pronunciation notes.",
-      "intro": "Welsh names reflect a living language and varied regional traditions. Check pronunciation with native-language sources where accuracy matters.",
-      "names": [
-        [
-          "Carys",
-          "Welsh",
-          "Love",
-          "KA-ris"
-        ],
-        [
-          "Nia",
-          "Swahili / Welsh",
-          "Purpose; meanings vary by origin",
-          "NEE-uh"
-        ],
-        [
-          "Mira",
-          "Multiple origins",
-          "Meanings vary by language",
-          "MEER-uh"
-        ],
-        [
-          "Elliot",
-          "Hebrew / English",
-          "The Lord is my God; form varies",
-          "EL-ee-ət"
-        ],
-        [
-          "Dylan",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
-        ],
-        [
-          "Aeron",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
-        ],
-        [
-          "Seren",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
-        ],
-        [
-          "Rhea",
-          "Greek",
-          "Mythological name",
-          "REE-uh"
         ]
       ]
     },
@@ -1210,63 +1039,6 @@
       ]
     },
     {
-      "slug": "french-baby-names",
-      "title": "French Baby Names",
-      "keyword": "French baby names",
-      "description": "Browse French baby names with elegant sounds, language background and pronunciation notes.",
-      "intro": "French usage includes traditional names and international favorites. Pronunciation differs from common English readings.",
-      "names": [
-        [
-          "Beau",
-          "French",
-          "Handsome",
-          "BOH"
-        ],
-        [
-          "Esme",
-          "French",
-          "Esteemed, loved",
-          "EZ-may"
-        ],
-        [
-          "Mila",
-          "Slavic",
-          "Gracious, dear",
-          "MEE-luh"
-        ],
-        [
-          "Theo",
-          "Greek",
-          "Gift of God; short form",
-          "THEE-oh"
-        ],
-        [
-          "Clara",
-          "Latin",
-          "Clear, bright",
-          "KLAIR-uh"
-        ],
-        [
-          "Felix",
-          "Latin",
-          "Happy, fortunate",
-          "FEE-liks"
-        ],
-        [
-          "Nico",
-          "Greek / Italian",
-          "Victory of the people; short form",
-          "NEE-koh"
-        ],
-        [
-          "Audrey",
-          "Old English",
-          "Noble strength",
-          "AW-dree"
-        ]
-      ]
-    },
-    {
       "slug": "italian-baby-names",
       "title": "Italian Baby Names",
       "keyword": "Italian baby names",
@@ -1287,9 +1059,9 @@
         ],
         [
           "Luca",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Nico",
@@ -1324,63 +1096,6 @@
       ]
     },
     {
-      "slug": "spanish-baby-names",
-      "title": "Spanish Baby Names",
-      "keyword": "Spanish baby names",
-      "description": "Explore Spanish baby names and names widely used in Spanish-speaking communities, with pronunciation notes.",
-      "intro": "Spanish names vary across Spain and Latin America, and some have regional forms or different pronunciations.",
-      "names": [
-        [
-          "Rafael",
-          "Hebrew",
-          "God has healed",
-          "rah-fye-EL"
-        ],
-        [
-          "Lucia",
-          "Latin",
-          "Light",
-          "loo-SEE-uh"
-        ],
-        [
-          "Sofia",
-          "Greek",
-          "Wisdom",
-          "soh-FEE-uh"
-        ],
-        [
-          "Leo",
-          "Latin",
-          "Lion",
-          "LEE-oh"
-        ],
-        [
-          "Maya",
-          "Multiple origins",
-          "Meanings vary by language",
-          "MY-uh"
-        ],
-        [
-          "Nora",
-          "Irish / Latin",
-          "Meanings vary by origin",
-          "NOR-uh"
-        ],
-        [
-          "Elena",
-          "Greek",
-          "Often associated with light",
-          "eh-LAY-nuh"
-        ],
-        [
-          "Mila",
-          "Slavic",
-          "Gracious, dear",
-          "MEE-luh"
-        ]
-      ]
-    },
-    {
       "slug": "japanese-baby-names",
       "title": "Japanese Baby Names",
       "keyword": "Japanese baby names",
@@ -1401,27 +1116,27 @@
         ],
         [
           "Ren",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Yuna",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Aiko",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Sora",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Mira",
@@ -1431,9 +1146,9 @@
         ],
         [
           "Rin",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ]
       ]
     },
@@ -1596,9 +1311,9 @@
         ],
         [
           "Rose",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Hazel",
@@ -1666,63 +1381,6 @@
       ]
     },
     {
-      "slug": "mythology-baby-names",
-      "title": "Mythology Baby Names",
-      "keyword": "mythology baby names",
-      "description": "Find baby names connected with Greek and wider mythology, with context for their stories and origins.",
-      "intro": "Mythological names carry stories that differ across ancient sources and later retellings. Consider the cultural context behind each choice.",
-      "names": [
-        [
-          "Atlas",
-          "Greek",
-          "Mythological Titan",
-          "AT-ləs"
-        ],
-        [
-          "Aurora",
-          "Latin",
-          "Dawn",
-          "uh-ROR-uh"
-        ],
-        [
-          "Daphne",
-          "Greek",
-          "Laurel tree",
-          "DAF-nee"
-        ],
-        [
-          "Phoebe",
-          "Greek",
-          "Bright, radiant",
-          "FEE-bee"
-        ],
-        [
-          "Rhea",
-          "Greek",
-          "Mythological name",
-          "REE-uh"
-        ],
-        [
-          "Cora",
-          "Greek",
-          "Maiden",
-          "KOR-uh"
-        ],
-        [
-          "Freya",
-          "Old Norse",
-          "Norse goddess name",
-          "FRAY-uh"
-        ],
-        [
-          "Leo",
-          "Latin",
-          "Lion",
-          "LEE-oh"
-        ]
-      ]
-    },
-    {
       "slug": "royal-baby-names",
       "title": "Royal Baby Names",
       "keyword": "royal baby names",
@@ -1755,9 +1413,9 @@
         ],
         [
           "Eleanor",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Leo",
@@ -1989,9 +1647,9 @@
         ],
         [
           "Valerie",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Arthur",
@@ -2004,63 +1662,6 @@
           "Latin",
           "From Hadria",
           "AY-dree-ən"
-        ]
-      ]
-    },
-    {
-      "slug": "soft-sounding-baby-names",
-      "title": "Soft Sounding Baby Names",
-      "keyword": "soft sounding baby names",
-      "description": "Discover gentle-sounding baby names with flowing vowels and soft consonants.",
-      "intro": "Sound is subjective and language-dependent. Say each name aloud in the languages your family uses before deciding.",
-      "names": [
-        [
-          "Mila",
-          "Slavic",
-          "Gracious, dear",
-          "MEE-luh"
-        ],
-        [
-          "Lila",
-          "Sanskrit / Arabic",
-          "Play; night, depending on origin",
-          "LYE-luh"
-        ],
-        [
-          "Nia",
-          "Swahili / Welsh",
-          "Purpose; meanings vary by origin",
-          "NEE-uh"
-        ],
-        [
-          "Lina",
-          "Multiple origins",
-          "Meanings vary by language",
-          "LEE-nuh"
-        ],
-        [
-          "Mira",
-          "Multiple origins",
-          "Meanings vary by language",
-          "MEER-uh"
-        ],
-        [
-          "Elena",
-          "Greek",
-          "Often associated with light",
-          "eh-LAY-nuh"
-        ],
-        [
-          "Nora",
-          "Irish / Latin",
-          "Meanings vary by origin",
-          "NOR-uh"
-        ],
-        [
-          "Aria",
-          "Italian / Hebrew",
-          "Air; lioness, depending on origin",
-          "AR-ee-uh"
         ]
       ]
     },
@@ -2217,9 +1818,9 @@
         ],
         [
           "Eleanor",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Gabriel",
@@ -2244,9 +1845,9 @@
       "names": [
         [
           "Noah",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Liam",
@@ -2376,33 +1977,33 @@
         ],
         [
           "Bella",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Benjamin",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Blake",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Bruno",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Brooke",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ]
       ]
     },
@@ -2451,15 +2052,15 @@
         ],
         [
           "Caleb",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Cleo",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ]
       ]
     },
@@ -2484,39 +2085,39 @@
         ],
         [
           "Daniel",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Dara",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Dylan",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "David",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Daisy",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Declan",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ]
       ]
     },
@@ -2571,9 +2172,9 @@
         ],
         [
           "Ezra",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ]
       ]
     },
@@ -2610,27 +2211,27 @@
         ],
         [
           "Fiona",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Faith",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Farah",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Frank",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ]
       ]
     },
@@ -2655,39 +2256,39 @@
         ],
         [
           "Georgia",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Gemma",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "George",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Gideon",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Gwen",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Graham",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ]
       ]
     },
@@ -2712,9 +2313,9 @@
         ],
         [
           "Henry",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Hugo",
@@ -2724,27 +2325,27 @@
         ],
         [
           "Harper",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Holly",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Hope",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Harrison",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ]
       ]
     },
@@ -2775,33 +2376,33 @@
         ],
         [
           "Ibrahim",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Imogen",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Indira",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Isaac",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Ione",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ]
       ]
     },
@@ -2832,33 +2433,33 @@
         ],
         [
           "Julia",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Julian",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Joseph",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Jasmine",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Juno",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ]
       ]
     },
@@ -2877,45 +2478,45 @@
         ],
         [
           "Kiran",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Kaya",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Keira",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Kian",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Klaus",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Kora",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Kit",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ]
       ]
     },
@@ -3021,15 +2622,15 @@
         ],
         [
           "Mabel",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Micah",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ]
       ]
     },
@@ -3066,27 +2667,27 @@
         ],
         [
           "Noah",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Niamh",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Nina",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Nathan",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ]
       ]
     },
@@ -3123,27 +2724,27 @@
         ],
         [
           "Olive",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Opal",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Owen",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Orion",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ]
       ]
     },
@@ -3162,45 +2763,45 @@
         ],
         [
           "Priya",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Poppy",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Peter",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Penelope",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Parker",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Paige",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Philip",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ]
       ]
     },
@@ -3243,21 +2844,21 @@
         ],
         [
           "Rose",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "River",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Raphael",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ]
       ]
     },
@@ -3294,27 +2895,27 @@
         ],
         [
           "Samuel",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Seren",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Stella",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Sebastian",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ]
       ]
     },
@@ -3339,39 +2940,39 @@
         ],
         [
           "Thomas",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Talia",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Tobias",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Tessa",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Tariq",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Tatum",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ]
       ]
     },
@@ -3390,45 +2991,45 @@
         ],
         [
           "Valerie",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Victor",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Vivian",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Vera",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Vincent",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Veda",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Vaughn",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ]
       ]
     },
@@ -3459,33 +3060,33 @@
         ],
         [
           "Zain",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Zelda",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Zayn",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Zuri",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ],
         [
           "Zephyr",
-          "Multiple origins",
-          "Meaning varies by language and culture",
-          "Pronunciation varies"
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
         ]
       ]
     }
