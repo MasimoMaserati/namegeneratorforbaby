@@ -14,7 +14,7 @@ const origin = 'https://namegeneratorforbaby.com';
 
 const esc = (s) => String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const slugText = (s) => s.toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
-const pages = [];
+const pages = [];\nconst slugs = data.categories.map(c => c.slug);\nif (new Set(slugs).size !== slugs.length) throw new Error('Duplicate category slugs found');\nfor (const c of data.categories) { if (!c.title || !c.description || !c.intro || !Array.isArray(c.names) || c.names.length < 8) throw new Error('Incomplete category data: ' + c.slug); }
 
 for (const category of data.categories) {
   const url = `${origin}/${category.slug}/`;
@@ -78,6 +78,11 @@ footer{text-align:center;padding:25px;color:var(--muted);font-size:.9rem;border-
   fs.writeFileSync(path.join(dir,'index.html'),html);
   pages.push(url);
 }
-const sitemap = ['<?xml version="1.0" encoding="UTF-8"?>','<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',`  <url><loc>${origin}/</loc></url>`,...pages.map(u=>`  <url><loc>${u}</loc></url>`),'</urlset>'].join('\n');
-fs.writeFileSync(path.join(root,'sitemap.xml'),sitemap+'\n');
-console.log(`Generated ${pages.length} pSEO category pages and sitemap.xml`);
+// Preserve existing URLs (including individual-name and legal pages) when rebuilding.
+const sitemapPath = path.join(root, 'sitemap.xml');
+const priorSitemap = fs.existsSync(sitemapPath) ? fs.readFileSync(sitemapPath, 'utf8') : '';
+const priorUrls = [...priorSitemap.matchAll(/<loc>\\s*(.*?)\\s*<\\/loc>/g)].map(match => match[1]);
+const allUrls = [...new Set([...priorUrls, `${origin}/`, ...pages])].sort();
+const sitemap = ['<?xml version="1.0" encoding="UTF-8"?>','<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',...allUrls.map(u=>`  <url><loc>${u}</loc></url>`),'</urlset>'].join('\\n');
+fs.writeFileSync(sitemapPath,sitemap+'\\n');
+console.log(`Generated ${pages.length} pSEO category pages and sitemap.xml with ${allUrls.length} URLs`);
