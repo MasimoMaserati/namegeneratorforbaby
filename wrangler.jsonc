@@ -1,0 +1,9 @@
+{
+  "$schema": "https://schema.cloudflare.com/wrangler/config-schema.json",
+  "name": "namegeneratorforbaby",
+  "compatibility_date": "2026-11-09",
+  "assets": {
+    "directory": ".",
+    "not_found_handling": "404-page"
+  }
+}

@@ -1,0 +1,3094 @@
+{
+  "categories": [
+    {
+      "slug": "boy-names",
+      "title": "Boy Names",
+      "keyword": "boy names",
+      "description": "Explore thoughtful baby boy names with meanings, origins and pronunciation notes. Browse classic, modern and distinctive ideas before choosing a name.",
+      "intro": "Choosing a name for a baby boy is a personal decision. This collection brings together familiar classics and distinctive choices, with concise meaning and origin notes to help you compare them.",
+      "names": [
+        [
+          "Liam",
+          "Irish",
+          "Resolute protector",
+          "LEE-əm"
+        ],
+        [
+          "Noah",
+          "Hebrew",
+          "Rest, comfort",
+          "NOH-uh"
+        ],
+        [
+          "Oliver",
+          "Latin",
+          "Olive tree",
+          "OL-ih-ver"
+        ],
+        [
+          "Ethan",
+          "Hebrew",
+          "Strong, enduring",
+          "EE-thən"
+        ],
+        [
+          "James",
+          "Hebrew",
+          "Traditionally associated with supplanting",
+          "JAYMZ"
+        ],
+        [
+          "Lucas",
+          "Latin",
+          "From Lucania; associated with light",
+          "LOO-kəs"
+        ],
+        [
+          "Theodore",
+          "Greek",
+          "Gift of God",
+          "THEE-uh-dor"
+        ],
+        [
+          "Arthur",
+          "Celtic",
+          "Often linked with bear imagery",
+          "AR-thər"
+        ],
+        [
+          "Ezra",
+          "Hebrew",
+          "Help",
+          "EZ-ruh"
+        ],
+        [
+          "Felix",
+          "Latin",
+          "Happy, fortunate",
+          "FEE-liks"
+        ],
+        [
+          "Kai",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Rowan",
+          "Irish / Gaelic",
+          "Rowan tree",
+          "ROH-ən"
+        ]
+      ]
+    },
+    {
+      "slug": "girl-names",
+      "title": "Girl Names",
+      "keyword": "girl names",
+      "description": "Discover baby girl names with meaning, origin and pronunciation notes, from timeless favorites to fresh and uncommon ideas.",
+      "intro": "A baby girl's name can feel classic, modern, delicate or bold. Explore a varied shortlist with background notes to help you find a name that feels right for your family.",
+      "names": [
+        [
+          "Amelia",
+          "Germanic",
+          "Work",
+          "uh-MEE-lee-uh"
+        ],
+        [
+          "Olivia",
+          "Latin",
+          "Olive tree",
+          "oh-LIV-ee-uh"
+        ],
+        [
+          "Isla",
+          "Scottish",
+          "Island",
+          "EYE-luh"
+        ],
+        [
+          "Maya",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Sofia",
+          "Greek",
+          "Wisdom",
+          "soh-FEE-uh"
+        ],
+        [
+          "Evelyn",
+          "English / French",
+          "Historically associated with desired or wished-for",
+          "EV-uh-lin"
+        ],
+        [
+          "Clara",
+          "Latin",
+          "Clear, bright",
+          "KLAIR-uh"
+        ],
+        [
+          "Nora",
+          "Irish / Latin",
+          "Often associated with honor or light",
+          "NOR-uh"
+        ],
+        [
+          "Zoe",
+          "Greek",
+          "Life",
+          "ZOH-ee"
+        ],
+        [
+          "Iris",
+          "Greek",
+          "Rainbow",
+          "EYE-ris"
+        ],
+        [
+          "Freya",
+          "Old Norse",
+          "Norse goddess name",
+          "FRAY-uh"
+        ],
+        [
+          "Elena",
+          "Greek",
+          "Often associated with light or brightness",
+          "eh-LAY-nuh"
+        ]
+      ]
+    },
+    {
+      "slug": "gender-neutral-baby-names",
+      "title": "Gender-Neutral Baby Names",
+      "keyword": "gender neutral baby names",
+      "description": "Browse gender-neutral baby name ideas with origin and meaning notes. Discover flexible names used across different cultures and naming traditions.",
+      "intro": "Gender-neutral names can offer a sense of flexibility and personal style. Usage varies across countries and generations, so consider the cultural context as well as sound and meaning.",
+      "names": [
+        [
+          "Alex",
+          "Greek",
+          "Defender of people; often a short form",
+          "AL-eks"
+        ],
+        [
+          "Avery",
+          "English / French",
+          "Often associated with elf counsel",
+          "AY-vuh-ree"
+        ],
+        [
+          "Riley",
+          "Irish",
+          "Courageous or valiant",
+          "RYE-lee"
+        ],
+        [
+          "Jordan",
+          "Hebrew",
+          "To flow down; associated with the Jordan River",
+          "JOR-dən"
+        ],
+        [
+          "Quinn",
+          "Irish",
+          "Descendant of Conn; often linked with wisdom",
+          "KWIN"
+        ],
+        [
+          "Sage",
+          "Latin / English",
+          "Wise; also an herb",
+          "SAYJ"
+        ],
+        [
+          "Rowan",
+          "Irish / Gaelic",
+          "Rowan tree",
+          "ROH-ən"
+        ],
+        [
+          "Morgan",
+          "Welsh",
+          "Traditional Welsh name with debated elements",
+          "MOR-gən"
+        ],
+        [
+          "Emerson",
+          "English",
+          "Son of Emery",
+          "EM-er-sən"
+        ],
+        [
+          "Robin",
+          "Germanic",
+          "Bright fame; also a bird name",
+          "ROB-in"
+        ],
+        [
+          "Ari",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Noel",
+          "French",
+          "Christmas",
+          "noh-EL"
+        ]
+      ]
+    },
+    {
+      "slug": "unique-baby-names",
+      "title": "Unique Baby Names",
+      "keyword": "unique baby names",
+      "description": "Find distinctive baby name inspiration with cultural background, pronunciation and meaning notes. Explore uncommon choices without losing sight of usability.",
+      "intro": "A distinctive name can stand out while still feeling natural to say and spell. This selection mixes less-common choices and names with strong cultural roots; popularity varies by country.",
+      "names": [
+        [
+          "Aurelia",
+          "Latin",
+          "Golden",
+          "aw-REE-lee-uh"
+        ],
+        [
+          "Cassian",
+          "Latin",
+          "Of the Cassius family",
+          "KASH-ən"
+        ],
+        [
+          "Elio",
+          "Italian / Spanish",
+          "Sun",
+          "EH-lee-oh"
+        ],
+        [
+          "Zora",
+          "Slavic",
+          "Dawn",
+          "ZOR-uh"
+        ],
+        [
+          "Soren",
+          "Danish",
+          "Often associated with stern",
+          "SOR-en"
+        ],
+        [
+          "Liora",
+          "Hebrew",
+          "My light",
+          "lee-OR-uh"
+        ],
+        [
+          "Zephyr",
+          "Greek",
+          "West wind",
+          "ZEF-er"
+        ],
+        [
+          "Anouk",
+          "French / Dutch",
+          "Form of Anna",
+          "ah-NOOK"
+        ],
+        [
+          "Caius",
+          "Latin",
+          "Rejoice",
+          "KYE-us"
+        ],
+        [
+          "Ione",
+          "Greek",
+          "Violet flower",
+          "eye-OH-nee"
+        ],
+        [
+          "Marlowe",
+          "English",
+          "Driftwood",
+          "MAR-loh"
+        ],
+        [
+          "Orla",
+          "Irish",
+          "Golden princess",
+          "OR-lah"
+        ]
+      ]
+    },
+    {
+      "slug": "short-baby-names",
+      "title": "Short Baby Names",
+      "keyword": "short baby names",
+      "description": "Explore short baby names that are easy to say and remember, with concise origin, meaning and pronunciation information.",
+      "intro": "Short names can be memorable, easy to pair with longer surnames and simple to pronounce. Here are compact choices from several naming traditions.",
+      "names": [
+        [
+          "Ada",
+          "Germanic",
+          "Noble",
+          "AY-duh"
+        ],
+        [
+          "Leo",
+          "Latin",
+          "Lion",
+          "LEE-oh"
+        ],
+        [
+          "Mia",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Eve",
+          "Hebrew",
+          "Life",
+          "EEV"
+        ],
+        [
+          "Ian",
+          "Scottish Gaelic",
+          "God is gracious",
+          "EE-ən"
+        ],
+        [
+          "Max",
+          "Latin",
+          "Greatest; often a short form",
+          "MAKS"
+        ],
+        [
+          "Ivy",
+          "English",
+          "Ivy plant",
+          "EYE-vee"
+        ],
+        [
+          "Kai",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Ava",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Beau",
+          "French",
+          "Handsome",
+          "BOH"
+        ],
+        [
+          "Jude",
+          "Hebrew",
+          "Praised",
+          "JOOD"
+        ],
+        [
+          "Nia",
+          "Swahili / Welsh",
+          "Purpose; meanings vary by origin",
+          "NEE-uh"
+        ]
+      ]
+    },
+    {
+      "slug": "names-that-mean-love",
+      "title": "Baby Names That Mean Love",
+      "keyword": "names that mean love",
+      "description": "Discover baby names associated with love, affection and beloved meanings, with origin and pronunciation notes. Meanings can vary across languages and sources.",
+      "intro": "Names connected with love can express affection and family bonds. Some meanings translate directly, while others are traditional interpretations or associations; check the cultural origin that matters to you.",
+      "names": [
+        [
+          "Amara",
+          "Igbo / Sanskrit",
+          "Meaning varies by origin; includes grace or immortality",
+          "uh-MAR-uh"
+        ],
+        [
+          "Esme",
+          "French",
+          "Esteemed, loved",
+          "EZ-may"
+        ],
+        [
+          "Mila",
+          "Slavic",
+          "Gracious or dear",
+          "MEE-luh"
+        ],
+        [
+          "Cara",
+          "Italian / Irish",
+          "Beloved or friend, depending on origin",
+          "KAR-uh"
+        ],
+        [
+          "David",
+          "Hebrew",
+          "Beloved",
+          "DAY-vid"
+        ],
+        [
+          "Priya",
+          "Sanskrit",
+          "Beloved",
+          "PREE-yuh"
+        ],
+        [
+          "Aiko",
+          "Japanese",
+          "Often interpreted as beloved child; kanji-dependent",
+          "EYE-koh"
+        ],
+        [
+          "Carys",
+          "Welsh",
+          "Love",
+          "KA-ris"
+        ],
+        [
+          "Dara",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Mabel",
+          "Latin",
+          "Lovable",
+          "MAY-bəl"
+        ],
+        [
+          "Mina",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Sajan",
+          "Sanskrit / Hindi",
+          "Beloved",
+          "suh-JUN"
+        ]
+      ]
+    },
+    {
+      "slug": "names-that-mean-light",
+      "title": "Baby Names That Mean Light",
+      "keyword": "baby names that mean light",
+      "description": "Explore baby names meaning light, bright, shining or dawn, with origin and pronunciation notes for each name.",
+      "intro": "Light-related names often evoke hope, clarity and new beginnings. Some refer directly to light, while others are associated with brightness, dawn or the sun.",
+      "names": [
+        [
+          "Lucia",
+          "Latin",
+          "Light",
+          "loo-SEE-uh"
+        ],
+        [
+          "Eleanor",
+          "Greek / Occitan",
+          "Traditional meaning debated; often associated with light",
+          "EL-uh-nor"
+        ],
+        [
+          "Roxana",
+          "Persian",
+          "Bright, dawn",
+          "rok-SAH-nuh"
+        ],
+        [
+          "Zia",
+          "Arabic / Latin",
+          "Light or splendor, depending on origin",
+          "ZEE-uh"
+        ],
+        [
+          "Noor",
+          "Arabic",
+          "Light",
+          "NOOR"
+        ],
+        [
+          "Kiran",
+          "Sanskrit",
+          "Ray of light",
+          "KEE-rən"
+        ],
+        [
+          "Uri",
+          "Hebrew",
+          "My light",
+          "OO-ree"
+        ],
+        [
+          "Ayla",
+          "Turkish / Hebrew",
+          "Meaning varies by origin; moonlight or oak-associated interpretations",
+          "EYE-luh"
+        ],
+        [
+          "Lior",
+          "Hebrew",
+          "I have light",
+          "lee-OR"
+        ],
+        [
+          "Chiara",
+          "Italian",
+          "Clear, bright",
+          "kee-AH-rah"
+        ],
+        [
+          "Niamh",
+          "Irish",
+          "Bright, radiant",
+          "NEEV"
+        ],
+        [
+          "Elio",
+          "Italian / Spanish",
+          "Sun",
+          "EH-lee-oh"
+        ]
+      ]
+    },
+    {
+      "slug": "vintage-baby-names",
+      "title": "Vintage Baby Names",
+      "keyword": "vintage baby names",
+      "description": "Rediscover vintage baby names with classic character, including origin, meaning and pronunciation notes for each choice.",
+      "intro": "Vintage names can feel familiar, elegant and enduring. This collection revisits names used across earlier generations that continue to appeal to modern parents.",
+      "names": [
+        [
+          "Beatrice",
+          "Latin",
+          "She who brings happiness",
+          "BEE-uh-tris"
+        ],
+        [
+          "Edith",
+          "Old English",
+          "Riches, blessed",
+          "EE-dith"
+        ],
+        [
+          "Arthur",
+          "Celtic",
+          "Often linked with bear imagery",
+          "AR-thər"
+        ],
+        [
+          "Walter",
+          "Germanic",
+          "Ruler of the army",
+          "WAWL-ter"
+        ],
+        [
+          "Mabel",
+          "Latin",
+          "Lovable",
+          "MAY-bəl"
+        ],
+        [
+          "Florence",
+          "Latin",
+          "Flourishing",
+          "FLOR-əns"
+        ],
+        [
+          "Theodore",
+          "Greek",
+          "Gift of God",
+          "THEE-uh-dor"
+        ],
+        [
+          "Agnes",
+          "Greek",
+          "Pure, holy",
+          "AG-nəs"
+        ],
+        [
+          "Felix",
+          "Latin",
+          "Happy, fortunate",
+          "FEE-liks"
+        ],
+        [
+          "Clara",
+          "Latin",
+          "Clear, bright",
+          "KLAIR-uh"
+        ],
+        [
+          "Otis",
+          "Germanic",
+          "Wealth, fortune",
+          "OH-tis"
+        ],
+        [
+          "Cecilia",
+          "Latin",
+          "Associated with the Roman family name Caecilius",
+          "suh-SEEL-yuh"
+        ]
+      ]
+    },
+    {
+      "slug": "nature-baby-names",
+      "title": "Nature Baby Names",
+      "keyword": "nature baby names",
+      "description": "Find baby names inspired by nature, flowers, trees, seasons and the natural world, with origin and meaning notes.",
+      "intro": "Nature-inspired names connect a child’s name with the world around us. This list includes botanical names, landscapes, natural elements and names associated with animals.",
+      "names": [
+        [
+          "Iris",
+          "Greek",
+          "Rainbow; also a flower",
+          "EYE-ris"
+        ],
+        [
+          "Willow",
+          "English",
+          "Willow tree",
+          "WIL-oh"
+        ],
+        [
+          "River",
+          "English",
+          "Flowing body of water",
+          "RIV-er"
+        ],
+        [
+          "Lily",
+          "English",
+          "Lily flower",
+          "LIL-ee"
+        ],
+        [
+          "Rowan",
+          "Irish / Gaelic",
+          "Rowan tree",
+          "ROH-ən"
+        ],
+        [
+          "Jasper",
+          "Persian",
+          "Traditional name for a gemstone",
+          "JAS-per"
+        ],
+        [
+          "Flora",
+          "Latin",
+          "Flower",
+          "FLOR-uh"
+        ],
+        [
+          "Sage",
+          "Latin / English",
+          "Wise; also an herb",
+          "SAYJ"
+        ],
+        [
+          "Dahlia",
+          "Swedish / Latinized",
+          "Named after botanist Anders Dahl",
+          "DAY-lee-uh"
+        ],
+        [
+          "Clementine",
+          "Latin",
+          "Merciful, gentle",
+          "KLEM-ən-teen"
+        ],
+        [
+          "Orion",
+          "Greek",
+          "Constellation and mythological hunter",
+          "oh-RYE-ən"
+        ],
+        [
+          "Hazel",
+          "English",
+          "Hazel tree",
+          "HAY-zəl"
+        ]
+      ]
+    },
+    {
+      "slug": "biblical-boy-names",
+      "title": "Biblical Boy Names",
+      "keyword": "biblical boy names",
+      "description": "Explore biblical boy names with concise meaning, language and pronunciation notes, including familiar and less common names from scripture.",
+      "intro": "Biblical names come from Hebrew, Aramaic and Greek traditions and have been adapted across many languages. Meanings and spellings can differ between translations and traditions.",
+      "names": [
+        [
+          "Noah",
+          "Hebrew",
+          "Rest, comfort",
+          "NOH-uh"
+        ],
+        [
+          "Ethan",
+          "Hebrew",
+          "Strong, enduring",
+          "EE-thən"
+        ],
+        [
+          "Ezra",
+          "Hebrew",
+          "Help",
+          "EZ-ruh"
+        ],
+        [
+          "Levi",
+          "Hebrew",
+          "Often interpreted as joined or attached",
+          "LEE-vye"
+        ],
+        [
+          "Asher",
+          "Hebrew",
+          "Happy, blessed",
+          "ASH-er"
+        ],
+        [
+          "Caleb",
+          "Hebrew",
+          "Traditional meaning debated; often associated with devotion",
+          "KAY-ləb"
+        ],
+        [
+          "Micah",
+          "Hebrew",
+          "Who is like God?",
+          "MY-kuh"
+        ],
+        [
+          "Jonah",
+          "Hebrew",
+          "Dove",
+          "JOH-nuh"
+        ],
+        [
+          "Elijah",
+          "Hebrew",
+          "My God is Yahweh",
+          "ih-LYE-juh"
+        ],
+        [
+          "Gabriel",
+          "Hebrew",
+          "God is my strength",
+          "GAY-bree-əl"
+        ],
+        [
+          "Silas",
+          "Latin / Greek",
+          "Possibly related to the forest",
+          "SY-ləs"
+        ],
+        [
+          "Malachi",
+          "Hebrew",
+          "My messenger",
+          "MAL-uh-kye"
+        ]
+      ]
+    },
+    {
+      "slug": "irish-boy-names",
+      "title": "Irish Boy Names",
+      "keyword": "Irish boy names",
+      "description": "Discover Irish boy names with Gaelic heritage, concise meaning notes and pronunciation help.",
+      "intro": "Irish names often have distinctive spellings and sounds. Pronunciation can vary between Irish dialects and anglicized forms.",
+      "names": [
+        [
+          "Liam",
+          "Irish",
+          "Resolute protector",
+          "LEE-əm"
+        ],
+        [
+          "Finn",
+          "Irish",
+          "Fair, white",
+          "FIN"
+        ],
+        [
+          "Callum",
+          "Scottish Gaelic",
+          "Dove",
+          "KAL-əm"
+        ],
+        [
+          "Ronan",
+          "Irish",
+          "Little seal",
+          "ROH-nən"
+        ],
+        [
+          "Oscar",
+          "Old English / Irish",
+          "Meaning debated across origins",
+          "OS-kər"
+        ],
+        [
+          "Rowan",
+          "Irish / Gaelic",
+          "Rowan tree",
+          "ROH-ən"
+        ],
+        [
+          "Aiden",
+          "Irish",
+          "Little fire",
+          "AY-dən"
+        ],
+        [
+          "Nico",
+          "Greek / Italian",
+          "Victory of the people; short form",
+          "NEE-koh"
+        ]
+      ]
+    },
+    {
+      "slug": "greek-baby-names",
+      "title": "Greek Baby Names",
+      "keyword": "Greek baby names",
+      "description": "Discover baby names from Greek language and mythology, with concise meanings and pronunciation guidance.",
+      "intro": "Greek names span ancient mythology, Orthodox traditions and modern usage. Spellings may differ when transliterated into English.",
+      "names": [
+        [
+          "Sofia",
+          "Greek",
+          "Wisdom",
+          "soh-FEE-uh"
+        ],
+        [
+          "Theo",
+          "Greek",
+          "Gift of God; short form",
+          "THEE-oh"
+        ],
+        [
+          "Theodore",
+          "Greek",
+          "Gift of God",
+          "THEE-uh-dor"
+        ],
+        [
+          "Phoebe",
+          "Greek",
+          "Bright, radiant",
+          "FEE-bee"
+        ],
+        [
+          "Daphne",
+          "Greek",
+          "Laurel tree",
+          "DAF-nee"
+        ],
+        [
+          "Cora",
+          "Greek",
+          "Maiden",
+          "KOR-uh"
+        ],
+        [
+          "Atlas",
+          "Greek",
+          "Mythological Titan",
+          "AT-ləs"
+        ],
+        [
+          "Zoe",
+          "Greek",
+          "Life",
+          "ZOH-ee"
+        ]
+      ]
+    },
+    {
+      "slug": "latin-baby-names",
+      "title": "Latin Baby Names",
+      "keyword": "Latin baby names",
+      "description": "Find baby names with Latin roots, including classic forms and nature-inspired choices.",
+      "intro": "Latin has influenced names across Europe and beyond. Some modern names are derived from Roman family names or Latin words.",
+      "names": [
+        [
+          "Felix",
+          "Latin",
+          "Happy, fortunate",
+          "FEE-liks"
+        ],
+        [
+          "Clara",
+          "Latin",
+          "Clear, bright",
+          "KLAIR-uh"
+        ],
+        [
+          "Lucia",
+          "Latin",
+          "Light",
+          "loo-SEE-uh"
+        ],
+        [
+          "Flora",
+          "Latin",
+          "Flower",
+          "FLOR-uh"
+        ],
+        [
+          "Aurora",
+          "Latin",
+          "Dawn",
+          "uh-ROR-uh"
+        ],
+        [
+          "Leo",
+          "Latin",
+          "Lion",
+          "LEE-oh"
+        ],
+        [
+          "Beatrice",
+          "Latin",
+          "She who brings happiness",
+          "BEE-uh-tris"
+        ],
+        [
+          "Aurelia",
+          "Latin",
+          "Golden",
+          "aw-REE-lee-uh"
+        ]
+      ]
+    },
+    {
+      "slug": "hebrew-baby-names",
+      "title": "Hebrew Baby Names",
+      "keyword": "Hebrew baby names",
+      "description": "Explore Hebrew baby names with meaning notes and pronunciation guidance across traditional and modern choices.",
+      "intro": "Hebrew names carry religious, linguistic and cultural significance. Meanings may depend on the original spelling and historical context.",
+      "names": [
+        [
+          "Naomi",
+          "Hebrew",
+          "Pleasantness",
+          "nay-OH-mee"
+        ],
+        [
+          "Ethan",
+          "Hebrew",
+          "Strong, enduring",
+          "EE-thən"
+        ],
+        [
+          "Levi",
+          "Hebrew",
+          "Joined, attached",
+          "LEE-vye"
+        ],
+        [
+          "Asher",
+          "Hebrew",
+          "Happy, blessed",
+          "ASH-er"
+        ],
+        [
+          "Gabriel",
+          "Hebrew",
+          "God is my strength",
+          "GAY-bree-əl"
+        ],
+        [
+          "Jonah",
+          "Hebrew",
+          "Dove",
+          "JOH-nuh"
+        ],
+        [
+          "Liora",
+          "Hebrew",
+          "My light",
+          "lee-OR-uh"
+        ],
+        [
+          "Eden",
+          "Hebrew",
+          "Delight",
+          "EE-dən"
+        ]
+      ]
+    },
+    {
+      "slug": "italian-baby-names",
+      "title": "Italian Baby Names",
+      "keyword": "Italian baby names",
+      "description": "Discover Italian baby names with musical pronunciation, heritage and concise meaning notes.",
+      "intro": "Italian naming traditions include saints' names, family names and contemporary international choices.",
+      "names": [
+        [
+          "Elio",
+          "Italian / Spanish",
+          "Sun",
+          "EH-lee-oh"
+        ],
+        [
+          "Lucia",
+          "Latin",
+          "Light",
+          "loo-SEE-uh"
+        ],
+        [
+          "Luca",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Nico",
+          "Greek / Italian",
+          "Victory of the people; short form",
+          "NEE-koh"
+        ],
+        [
+          "Leo",
+          "Latin",
+          "Lion",
+          "LEE-oh"
+        ],
+        [
+          "Aria",
+          "Italian / Hebrew",
+          "Air; lioness, depending on origin",
+          "AR-ee-uh"
+        ],
+        [
+          "Aurora",
+          "Latin",
+          "Dawn",
+          "uh-ROR-uh"
+        ],
+        [
+          "Beatrice",
+          "Latin",
+          "She who brings happiness",
+          "BEE-uh-tris"
+        ]
+      ]
+    },
+    {
+      "slug": "japanese-baby-names",
+      "title": "Japanese Baby Names",
+      "keyword": "Japanese baby names",
+      "description": "Discover Japanese baby name inspiration and learn why kanji choice affects meaning and interpretation.",
+      "intro": "Japanese given names can be written with different kanji combinations, so a romanized name alone does not determine a single meaning.",
+      "names": [
+        [
+          "Hana",
+          "Multiple origins",
+          "Meanings vary by language",
+          "HAH-nuh"
+        ],
+        [
+          "Kai",
+          "Multiple origins",
+          "Meanings vary by language",
+          "KYE"
+        ],
+        [
+          "Ren",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Yuna",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Aiko",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Sora",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Mira",
+          "Multiple origins",
+          "Meanings vary by language",
+          "MEER-uh"
+        ],
+        [
+          "Rin",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ]
+      ]
+    },
+    {
+      "slug": "nature-girl-names",
+      "title": "Nature Girl Names",
+      "keyword": "nature girl names",
+      "description": "Find girl names inspired by flowers, trees, light and the natural world, with origin notes.",
+      "intro": "Nature names can refer directly to plants and landscapes or carry long-standing associations with the natural world.",
+      "names": [
+        [
+          "Iris",
+          "Greek",
+          "Rainbow; also flower",
+          "EYE-ris"
+        ],
+        [
+          "Willow",
+          "English",
+          "Willow tree",
+          "WIL-oh"
+        ],
+        [
+          "Flora",
+          "Latin",
+          "Flower",
+          "FLOR-uh"
+        ],
+        [
+          "Dahlia",
+          "Swedish / Latinized",
+          "Flower name",
+          "DAY-lee-uh"
+        ],
+        [
+          "Violet",
+          "Latin",
+          "Violet flower",
+          "VYE-ə-lət"
+        ],
+        [
+          "Hazel",
+          "English",
+          "Hazel tree",
+          "HAY-zəl"
+        ],
+        [
+          "Ivy",
+          "English",
+          "Ivy plant",
+          "EYE-vee"
+        ],
+        [
+          "Aurora",
+          "Latin",
+          "Dawn",
+          "uh-ROR-uh"
+        ]
+      ]
+    },
+    {
+      "slug": "nature-boy-names",
+      "title": "Nature Boy Names",
+      "keyword": "nature boy names",
+      "description": "Explore boy names connected with trees, animals, landscapes and the natural world.",
+      "intro": "Nature-inspired boy names range from botanical choices to names associated with animals, places and natural imagery.",
+      "names": [
+        [
+          "Rowan",
+          "Irish / Gaelic",
+          "Rowan tree",
+          "ROH-ən"
+        ],
+        [
+          "Jasper",
+          "Persian",
+          "Traditional gemstone name",
+          "JAS-per"
+        ],
+        [
+          "Atlas",
+          "Greek",
+          "Mythological Titan",
+          "AT-ləs"
+        ],
+        [
+          "Finn",
+          "Irish",
+          "Fair, white",
+          "FIN"
+        ],
+        [
+          "Leo",
+          "Latin",
+          "Lion",
+          "LEE-oh"
+        ],
+        [
+          "Sage",
+          "Latin / English",
+          "Wise; also an herb",
+          "SAYJ"
+        ],
+        [
+          "Wren",
+          "English",
+          "Small songbird",
+          "REN"
+        ],
+        [
+          "Kai",
+          "Multiple origins",
+          "Meanings vary by language",
+          "KYE"
+        ]
+      ]
+    },
+    {
+      "slug": "flower-baby-names",
+      "title": "Flower Baby Names",
+      "keyword": "flower baby names",
+      "description": "Discover baby names inspired by flowers and flowering plants, with botanical and language notes.",
+      "intro": "Some names are direct flower names, while others are associated with plants through mythology or historical usage.",
+      "names": [
+        [
+          "Iris",
+          "Greek",
+          "Rainbow; also flower",
+          "EYE-ris"
+        ],
+        [
+          "Dahlia",
+          "Swedish / Latinized",
+          "Flower name",
+          "DAY-lee-uh"
+        ],
+        [
+          "Flora",
+          "Latin",
+          "Flower",
+          "FLOR-uh"
+        ],
+        [
+          "Violet",
+          "Latin",
+          "Violet flower",
+          "VYE-ə-lət"
+        ],
+        [
+          "Lila",
+          "Sanskrit / Arabic",
+          "Play; night, depending on origin",
+          "LYE-luh"
+        ],
+        [
+          "Zara",
+          "Multiple origins",
+          "Meanings vary by language",
+          "ZAR-uh"
+        ],
+        [
+          "Rose",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Hazel",
+          "English",
+          "Hazel tree",
+          "HAY-zəl"
+        ]
+      ]
+    },
+    {
+      "slug": "celestial-baby-names",
+      "title": "Celestial Baby Names",
+      "keyword": "celestial baby names",
+      "description": "Explore baby names inspired by the sky, stars, dawn and celestial mythology.",
+      "intro": "Celestial names can evoke light, the heavens and mythology. Some are direct astronomical references; others are symbolic associations.",
+      "names": [
+        [
+          "Aurora",
+          "Latin",
+          "Dawn",
+          "uh-ROR-uh"
+        ],
+        [
+          "Atlas",
+          "Greek",
+          "Mythological Titan",
+          "AT-ləs"
+        ],
+        [
+          "Leo",
+          "Latin",
+          "Lion",
+          "LEE-oh"
+        ],
+        [
+          "Rhea",
+          "Greek",
+          "Mythological name",
+          "REE-uh"
+        ],
+        [
+          "Zora",
+          "Slavic",
+          "Dawn",
+          "ZOR-uh"
+        ],
+        [
+          "Elio",
+          "Italian / Spanish",
+          "Sun",
+          "EH-lee-oh"
+        ],
+        [
+          "Phoebe",
+          "Greek",
+          "Bright, radiant",
+          "FEE-bee"
+        ],
+        [
+          "Sage",
+          "Latin / English",
+          "Wise; also an herb",
+          "SAYJ"
+        ]
+      ]
+    },
+    {
+      "slug": "royal-baby-names",
+      "title": "Royal Baby Names",
+      "keyword": "royal baby names",
+      "description": "Browse regal baby name ideas inspired by historic European names and royal naming traditions.",
+      "intro": "Royal associations vary by country and period. This collection focuses on names with historic or aristocratic associations, not official endorsement.",
+      "names": [
+        [
+          "Arthur",
+          "Celtic",
+          "Traditional name with debated origin",
+          "AR-thər"
+        ],
+        [
+          "Adelaide",
+          "Germanic",
+          "Noble kind",
+          "AD-uh-layd"
+        ],
+        [
+          "Audrey",
+          "Old English",
+          "Noble strength",
+          "AW-dree"
+        ],
+        [
+          "Beatrice",
+          "Latin",
+          "She who brings happiness",
+          "BEE-uh-tris"
+        ],
+        [
+          "Eleanor",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Leo",
+          "Latin",
+          "Lion",
+          "LEE-oh"
+        ],
+        [
+          "Theodore",
+          "Greek",
+          "Gift of God",
+          "THEE-uh-dor"
+        ],
+        [
+          "Grace",
+          "Latin",
+          "Grace, favor",
+          "GRAYS"
+        ]
+      ]
+    },
+    {
+      "slug": "classic-baby-names",
+      "title": "Classic Baby Names",
+      "keyword": "classic baby names",
+      "description": "Discover classic baby names with enduring use across generations and familiar pronunciation.",
+      "intro": "Classic names often have long histories and cross-generational familiarity, though popularity changes by country and decade.",
+      "names": [
+        [
+          "Clara",
+          "Latin",
+          "Clear, bright",
+          "KLAIR-uh"
+        ],
+        [
+          "Theodore",
+          "Greek",
+          "Gift of God",
+          "THEE-uh-dor"
+        ],
+        [
+          "Oliver",
+          "Latin",
+          "Olive tree",
+          "OL-ih-ver"
+        ],
+        [
+          "Beatrice",
+          "Latin",
+          "She who brings happiness",
+          "BEE-uh-tris"
+        ],
+        [
+          "Felix",
+          "Latin",
+          "Happy, fortunate",
+          "FEE-liks"
+        ],
+        [
+          "Naomi",
+          "Hebrew",
+          "Pleasantness",
+          "nay-OH-mee"
+        ],
+        [
+          "Arthur",
+          "Celtic",
+          "Traditional name with debated origin",
+          "AR-thər"
+        ],
+        [
+          "Grace",
+          "Latin",
+          "Grace, favor",
+          "GRAYS"
+        ]
+      ]
+    },
+    {
+      "slug": "modern-baby-names",
+      "title": "Modern Baby Names",
+      "keyword": "modern baby names",
+      "description": "Explore contemporary baby name ideas with concise background, pronunciation and style notes.",
+      "intro": "Modern naming trends vary by region. These ideas combine current-feeling sounds with established linguistic roots.",
+      "names": [
+        [
+          "Aria",
+          "Italian / Hebrew",
+          "Air; lioness, depending on origin",
+          "AR-ee-uh"
+        ],
+        [
+          "Kai",
+          "Multiple origins",
+          "Meanings vary by language",
+          "KYE"
+        ],
+        [
+          "Mila",
+          "Slavic",
+          "Gracious, dear",
+          "MEE-luh"
+        ],
+        [
+          "Elio",
+          "Italian / Spanish",
+          "Sun",
+          "EH-lee-oh"
+        ],
+        [
+          "Zoe",
+          "Greek",
+          "Life",
+          "ZOH-ee"
+        ],
+        [
+          "Nico",
+          "Greek / Italian",
+          "Victory of the people; short form",
+          "NEE-koh"
+        ],
+        [
+          "Sage",
+          "Latin / English",
+          "Wise; also an herb",
+          "SAYJ"
+        ],
+        [
+          "Liam",
+          "Irish",
+          "Resolute protector",
+          "LEE-əm"
+        ]
+      ]
+    },
+    {
+      "slug": "elegant-baby-names",
+      "title": "Elegant Baby Names",
+      "keyword": "elegant baby names",
+      "description": "Find elegant baby names with graceful sounds, classic roots and clear pronunciation notes.",
+      "intro": "An elegant name is subjective: sound, spelling, family heritage and cultural context all shape how a name feels.",
+      "names": [
+        [
+          "Aurelia",
+          "Latin",
+          "Golden",
+          "aw-REE-lee-uh"
+        ],
+        [
+          "Beatrice",
+          "Latin",
+          "She who brings happiness",
+          "BEE-uh-tris"
+        ],
+        [
+          "Clara",
+          "Latin",
+          "Clear, bright",
+          "KLAIR-uh"
+        ],
+        [
+          "Elena",
+          "Greek",
+          "Often associated with light",
+          "eh-LAY-nuh"
+        ],
+        [
+          "Lucia",
+          "Latin",
+          "Light",
+          "loo-SEE-uh"
+        ],
+        [
+          "Theodore",
+          "Greek",
+          "Gift of God",
+          "THEE-uh-dor"
+        ],
+        [
+          "Audrey",
+          "Old English",
+          "Noble strength",
+          "AW-dree"
+        ],
+        [
+          "Sofia",
+          "Greek",
+          "Wisdom",
+          "soh-FEE-uh"
+        ]
+      ]
+    },
+    {
+      "slug": "strong-baby-names",
+      "title": "Strong Baby Names",
+      "keyword": "strong baby names",
+      "description": "Explore baby names associated with strength, courage, resilience and leadership.",
+      "intro": "Some names have direct strength-related meanings; others are associated with notable figures or traditional interpretations.",
+      "names": [
+        [
+          "Ethan",
+          "Hebrew",
+          "Strong, enduring",
+          "EE-thən"
+        ],
+        [
+          "Gabriel",
+          "Hebrew",
+          "God is my strength",
+          "GAY-bree-əl"
+        ],
+        [
+          "Audrey",
+          "Old English",
+          "Noble strength",
+          "AW-dree"
+        ],
+        [
+          "Aiden",
+          "Irish",
+          "Little fire",
+          "AY-dən"
+        ],
+        [
+          "Leo",
+          "Latin",
+          "Lion",
+          "LEE-oh"
+        ],
+        [
+          "Valerie",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Arthur",
+          "Celtic",
+          "Traditional name with debated origin",
+          "AR-thər"
+        ],
+        [
+          "Adrian",
+          "Latin",
+          "From Hadria",
+          "AY-dree-ən"
+        ]
+      ]
+    },
+    {
+      "slug": "one-syllable-baby-names",
+      "title": "One Syllable Baby Names",
+      "keyword": "one syllable baby names",
+      "description": "Browse concise one-syllable baby names with simple pronunciation and origin notes.",
+      "intro": "One-syllable names can pair well with longer surnames, though pronunciation may differ across accents.",
+      "names": [
+        [
+          "Finn",
+          "Irish",
+          "Fair, white",
+          "FIN"
+        ],
+        [
+          "Kai",
+          "Multiple origins",
+          "Meanings vary by language",
+          "KYE"
+        ],
+        [
+          "Leo",
+          "Latin",
+          "Lion",
+          "LEE-oh"
+        ],
+        [
+          "Jude",
+          "Hebrew",
+          "Praised",
+          "JOOD"
+        ],
+        [
+          "Beau",
+          "French",
+          "Handsome",
+          "BOH"
+        ],
+        [
+          "Wren",
+          "English",
+          "Small songbird",
+          "REN"
+        ],
+        [
+          "Sage",
+          "Latin / English",
+          "Wise; also an herb",
+          "SAYJ"
+        ],
+        [
+          "Maeve",
+          "Irish",
+          "Traditional Irish name; meaning debated",
+          "MAYV"
+        ]
+      ]
+    },
+    {
+      "slug": "two-syllable-baby-names",
+      "title": "Two Syllable Baby Names",
+      "keyword": "two syllable baby names",
+      "description": "Explore two-syllable baby names that balance brevity and rhythm, with pronunciation notes.",
+      "intro": "Two-syllable names are versatile and can work with many surname lengths. Syllable counts can shift by accent.",
+      "names": [
+        [
+          "Mila",
+          "Slavic",
+          "Gracious, dear",
+          "MEE-luh"
+        ],
+        [
+          "Nora",
+          "Irish / Latin",
+          "Meanings vary by origin",
+          "NOR-uh"
+        ],
+        [
+          "Liam",
+          "Irish",
+          "Resolute protector",
+          "LEE-əm"
+        ],
+        [
+          "Theo",
+          "Greek",
+          "Gift of God; short form",
+          "THEE-oh"
+        ],
+        [
+          "Clara",
+          "Latin",
+          "Clear, bright",
+          "KLAIR-uh"
+        ],
+        [
+          "Felix",
+          "Latin",
+          "Happy, fortunate",
+          "FEE-liks"
+        ],
+        [
+          "Rowan",
+          "Irish / Gaelic",
+          "Rowan tree",
+          "ROH-ən"
+        ],
+        [
+          "Zoe",
+          "Greek",
+          "Life",
+          "ZOH-ee"
+        ]
+      ]
+    },
+    {
+      "slug": "long-baby-names",
+      "title": "Long Baby Names",
+      "keyword": "long baby names",
+      "description": "Discover longer baby names with rich histories, nickname possibilities and pronunciation guidance.",
+      "intro": "Longer names can offer several nickname options. Consider spelling, pronunciation and how the full name flows.",
+      "names": [
+        [
+          "Aurelia",
+          "Latin",
+          "Golden",
+          "aw-REE-lee-uh"
+        ],
+        [
+          "Theodore",
+          "Greek",
+          "Gift of God",
+          "THEE-uh-dor"
+        ],
+        [
+          "Adelaide",
+          "Germanic",
+          "Noble kind",
+          "AD-uh-layd"
+        ],
+        [
+          "Cecilia",
+          "Latin",
+          "Traditional Roman family name",
+          "suh-SEEL-yuh"
+        ],
+        [
+          "Beatrice",
+          "Latin",
+          "She who brings happiness",
+          "BEE-uh-tris"
+        ],
+        [
+          "Eleanor",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Gabriel",
+          "Hebrew",
+          "God is my strength",
+          "GAY-bree-əl"
+        ],
+        [
+          "Aurora",
+          "Latin",
+          "Dawn",
+          "uh-ROR-uh"
+        ]
+      ]
+    },
+    {
+      "slug": "four-letter-baby-names",
+      "title": "Four Letter Baby Names",
+      "keyword": "four letter baby names",
+      "description": "Find four-letter baby names that are compact, memorable and easy to spell.",
+      "intro": "Short spellings can still have varied origins and pronunciations. Check how the name works in your family's languages.",
+      "names": [
+        [
+          "Noah",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Liam",
+          "Irish",
+          "Resolute protector",
+          "LEE-əm"
+        ],
+        [
+          "Mila",
+          "Slavic",
+          "Gracious, dear",
+          "MEE-luh"
+        ],
+        [
+          "Nora",
+          "Irish / Latin",
+          "Meanings vary by origin",
+          "NOR-uh"
+        ],
+        [
+          "Zoe",
+          "Greek",
+          "Life",
+          "ZOH-ee"
+        ],
+        [
+          "Theo",
+          "Greek",
+          "Gift of God; short form",
+          "THEE-oh"
+        ],
+        [
+          "Iris",
+          "Greek",
+          "Rainbow; also flower",
+          "EYE-ris"
+        ],
+        [
+          "Jude",
+          "Hebrew",
+          "Praised",
+          "JOOD"
+        ]
+      ]
+    },
+    {
+      "slug": "baby-names-starting-with-a",
+      "title": "Baby Names That Start With A",
+      "keyword": "baby names starting with a",
+      "description": "Explore baby names beginning with A, including classic, modern and international ideas.",
+      "intro": "The first letter can be a useful way to build a shortlist. This collection includes names from several language traditions.",
+      "names": [
+        [
+          "Ada",
+          "Germanic",
+          "Noble",
+          "AY-duh"
+        ],
+        [
+          "Adelaide",
+          "Germanic",
+          "Noble kind",
+          "AD-uh-layd"
+        ],
+        [
+          "Adrian",
+          "Latin",
+          "From Hadria",
+          "AY-dree-ən"
+        ],
+        [
+          "Aiden",
+          "Irish",
+          "Little fire",
+          "AY-dən"
+        ],
+        [
+          "Alba",
+          "Latin",
+          "Dawn, white",
+          "AL-buh"
+        ],
+        [
+          "Amara",
+          "Igbo / Sanskrit",
+          "Meanings vary by origin",
+          "uh-MAR-uh"
+        ],
+        [
+          "Amelia",
+          "Germanic",
+          "Work",
+          "uh-MEE-lee-uh"
+        ],
+        [
+          "Anya",
+          "Russian / Sanskrit",
+          "Grace; meanings vary by origin",
+          "AHN-yuh"
+        ]
+      ]
+    },
+    {
+      "slug": "baby-names-starting-with-b",
+      "title": "Baby Names That Start With B",
+      "keyword": "baby names starting with b",
+      "description": "Discover baby names beginning with B, with concise origin and meaning notes.",
+      "intro": "Browse names beginning with B and compare their sound, spelling and cultural background.",
+      "names": [
+        [
+          "Beatrice",
+          "Latin",
+          "She who brings happiness",
+          "BEE-uh-tris"
+        ],
+        [
+          "Beau",
+          "French",
+          "Handsome",
+          "BOH"
+        ],
+        [
+          "Bodhi",
+          "Sanskrit",
+          "Awakening, enlightenment",
+          "BOH-dee"
+        ],
+        [
+          "Bella",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Benjamin",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Blake",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Bruno",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Brooke",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ]
+      ]
+    },
+    {
+      "slug": "baby-names-starting-with-c",
+      "title": "Baby Names That Start With C",
+      "keyword": "baby names starting with c",
+      "description": "Explore baby names beginning with C, from familiar classics to distinctive choices.",
+      "intro": "Names beginning with C can have different sounds depending on language and spelling tradition.",
+      "names": [
+        [
+          "Callum",
+          "Scottish Gaelic",
+          "Dove",
+          "KAL-əm"
+        ],
+        [
+          "Carys",
+          "Welsh",
+          "Love",
+          "KA-ris"
+        ],
+        [
+          "Cassian",
+          "Latin",
+          "Of the Cassius family",
+          "KASH-ən"
+        ],
+        [
+          "Cecilia",
+          "Latin",
+          "Traditional Roman family name",
+          "suh-SEEL-yuh"
+        ],
+        [
+          "Clara",
+          "Latin",
+          "Clear, bright",
+          "KLAIR-uh"
+        ],
+        [
+          "Cora",
+          "Greek",
+          "Maiden",
+          "KOR-uh"
+        ],
+        [
+          "Caleb",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Cleo",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ]
+      ]
+    },
+    {
+      "slug": "baby-names-starting-with-d",
+      "title": "Baby Names That Start With D",
+      "keyword": "baby names starting with d",
+      "description": "Browse baby names beginning with D, with background and pronunciation guidance.",
+      "intro": "Compare traditional and contemporary names beginning with D across several origins.",
+      "names": [
+        [
+          "Dahlia",
+          "Swedish / Latinized",
+          "Flower name",
+          "DAY-lee-uh"
+        ],
+        [
+          "Daphne",
+          "Greek",
+          "Laurel tree",
+          "DAF-nee"
+        ],
+        [
+          "Daniel",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Dara",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Dylan",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "David",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Daisy",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Declan",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ]
+      ]
+    },
+    {
+      "slug": "baby-names-starting-with-e",
+      "title": "Baby Names That Start With E",
+      "keyword": "baby names starting with e",
+      "description": "Discover baby names beginning with E, with meaning and origin notes.",
+      "intro": "Names beginning with E include short modern choices and longer traditional forms.",
+      "names": [
+        [
+          "Eden",
+          "Hebrew",
+          "Delight",
+          "EE-dən"
+        ],
+        [
+          "Elena",
+          "Greek",
+          "Often associated with light",
+          "eh-LAY-nuh"
+        ],
+        [
+          "Elio",
+          "Italian / Spanish",
+          "Sun",
+          "EH-lee-oh"
+        ],
+        [
+          "Elliot",
+          "Hebrew / English",
+          "The Lord is my God; form varies",
+          "EL-ee-ət"
+        ],
+        [
+          "Esme",
+          "French",
+          "Esteemed, loved",
+          "EZ-may"
+        ],
+        [
+          "Ethan",
+          "Hebrew",
+          "Strong, enduring",
+          "EE-thən"
+        ],
+        [
+          "Evelyn",
+          "English / French",
+          "Historical origin debated",
+          "EV-uh-lin"
+        ],
+        [
+          "Ezra",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ]
+      ]
+    },
+    {
+      "slug": "baby-names-starting-with-f",
+      "title": "Baby Names That Start With F",
+      "keyword": "baby names starting with f",
+      "description": "Explore baby names beginning with F, including nature-inspired and classic choices.",
+      "intro": "This shortlist brings together names beginning with F from several language backgrounds.",
+      "names": [
+        [
+          "Felix",
+          "Latin",
+          "Happy, fortunate",
+          "FEE-liks"
+        ],
+        [
+          "Finn",
+          "Irish",
+          "Fair, white",
+          "FIN"
+        ],
+        [
+          "Flora",
+          "Latin",
+          "Flower",
+          "FLOR-uh"
+        ],
+        [
+          "Freya",
+          "Old Norse",
+          "Norse goddess name",
+          "FRAY-uh"
+        ],
+        [
+          "Fiona",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Faith",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Farah",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Frank",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ]
+      ]
+    },
+    {
+      "slug": "baby-names-starting-with-g",
+      "title": "Baby Names That Start With G",
+      "keyword": "baby names starting with g",
+      "description": "Find baby names beginning with G, with pronunciation and cultural background notes.",
+      "intro": "Browse names beginning with G and consider how their pronunciation changes across languages.",
+      "names": [
+        [
+          "Gabriel",
+          "Hebrew",
+          "God is my strength",
+          "GAY-bree-əl"
+        ],
+        [
+          "Grace",
+          "Latin",
+          "Grace, favor",
+          "GRAYS"
+        ],
+        [
+          "Georgia",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Gemma",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "George",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Gideon",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Gwen",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Graham",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ]
+      ]
+    },
+    {
+      "slug": "baby-names-starting-with-h",
+      "title": "Baby Names That Start With H",
+      "keyword": "baby names starting with h",
+      "description": "Discover baby names beginning with H, from botanical favorites to traditional names.",
+      "intro": "Names beginning with H span many cultures and styles; check local pronunciation and spelling.",
+      "names": [
+        [
+          "Hana",
+          "Multiple origins",
+          "Meanings vary by language",
+          "HAH-nuh"
+        ],
+        [
+          "Hazel",
+          "English",
+          "Hazel tree",
+          "HAY-zəl"
+        ],
+        [
+          "Henry",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Hugo",
+          "Germanic",
+          "Mind, intellect",
+          "HYOO-goh"
+        ],
+        [
+          "Harper",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Holly",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Hope",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Harrison",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ]
+      ]
+    },
+    {
+      "slug": "baby-names-starting-with-i",
+      "title": "Baby Names That Start With I",
+      "keyword": "baby names starting with i",
+      "description": "Explore baby names beginning with I, including floral and international choices.",
+      "intro": "Names beginning with I can have different vowel sounds across languages.",
+      "names": [
+        [
+          "Iris",
+          "Greek",
+          "Rainbow; also flower",
+          "EYE-ris"
+        ],
+        [
+          "Isla",
+          "Scottish",
+          "Island",
+          "EYE-luh"
+        ],
+        [
+          "Ivy",
+          "English",
+          "Ivy plant",
+          "EYE-vee"
+        ],
+        [
+          "Ibrahim",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Imogen",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Indira",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Isaac",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Ione",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ]
+      ]
+    },
+    {
+      "slug": "baby-names-starting-with-j",
+      "title": "Baby Names That Start With J",
+      "keyword": "baby names starting with j",
+      "description": "Browse baby names beginning with J, including familiar and distinctive ideas.",
+      "intro": "J can represent different sounds across languages, so pronunciation guidance is especially useful.",
+      "names": [
+        [
+          "Jasper",
+          "Persian",
+          "Traditional gemstone name",
+          "JAS-per"
+        ],
+        [
+          "Jonah",
+          "Hebrew",
+          "Dove",
+          "JOH-nuh"
+        ],
+        [
+          "Jude",
+          "Hebrew",
+          "Praised",
+          "JOOD"
+        ],
+        [
+          "Julia",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Julian",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Joseph",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Jasmine",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Juno",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ]
+      ]
+    },
+    {
+      "slug": "baby-names-starting-with-k",
+      "title": "Baby Names That Start With K",
+      "keyword": "baby names starting with k",
+      "description": "Discover baby names beginning with K, with varied cultural roots and pronunciation notes.",
+      "intro": "K names appear in many languages and traditions; meanings should be checked against their specific origin.",
+      "names": [
+        [
+          "Kai",
+          "Multiple origins",
+          "Meanings vary by language",
+          "KYE"
+        ],
+        [
+          "Kiran",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Kaya",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Keira",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Kian",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Klaus",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Kora",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Kit",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ]
+      ]
+    },
+    {
+      "slug": "baby-names-starting-with-l",
+      "title": "Baby Names That Start With L",
+      "keyword": "baby names starting with l",
+      "description": "Explore baby names beginning with L, from timeless classics to contemporary favorites.",
+      "intro": "Names beginning with L often have a gentle sound, but their origins and meanings vary widely.",
+      "names": [
+        [
+          "Leo",
+          "Latin",
+          "Lion",
+          "LEE-oh"
+        ],
+        [
+          "Levi",
+          "Hebrew",
+          "Joined, attached",
+          "LEE-vye"
+        ],
+        [
+          "Liam",
+          "Irish",
+          "Resolute protector",
+          "LEE-əm"
+        ],
+        [
+          "Lila",
+          "Sanskrit / Arabic",
+          "Play; night, depending on origin",
+          "LYE-luh"
+        ],
+        [
+          "Lina",
+          "Multiple origins",
+          "Meanings vary by language",
+          "LEE-nuh"
+        ],
+        [
+          "Liora",
+          "Hebrew",
+          "My light",
+          "lee-OR-uh"
+        ],
+        [
+          "Lucia",
+          "Latin",
+          "Light",
+          "loo-SEE-uh"
+        ],
+        [
+          "Lucas",
+          "Latin",
+          "From Lucania; associated with light",
+          "LOO-kəs"
+        ]
+      ]
+    },
+    {
+      "slug": "baby-names-starting-with-m",
+      "title": "Baby Names That Start With M",
+      "keyword": "baby names starting with m",
+      "description": "Find baby names beginning with M, with concise meaning and origin notes.",
+      "intro": "M names span many cultures and include both short forms and traditional names.",
+      "names": [
+        [
+          "Maeve",
+          "Irish",
+          "Traditional Irish name; meaning debated",
+          "MAYV"
+        ],
+        [
+          "Mara",
+          "Multiple origins",
+          "Meanings vary by language",
+          "MAH-ruh"
+        ],
+        [
+          "Maya",
+          "Multiple origins",
+          "Meanings vary by language",
+          "MY-uh"
+        ],
+        [
+          "Mila",
+          "Slavic",
+          "Gracious, dear",
+          "MEE-luh"
+        ],
+        [
+          "Milo",
+          "Germanic / Slavic",
+          "Traditional name with debated roots",
+          "MY-loh"
+        ],
+        [
+          "Mira",
+          "Multiple origins",
+          "Meanings vary by language",
+          "MEER-uh"
+        ],
+        [
+          "Mabel",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Micah",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ]
+      ]
+    },
+    {
+      "slug": "baby-names-starting-with-n",
+      "title": "Baby Names That Start With N",
+      "keyword": "baby names starting with n",
+      "description": "Discover baby names beginning with N, including classic, modern and international choices.",
+      "intro": "Explore N names and compare their pronunciation in your family's languages.",
+      "names": [
+        [
+          "Naomi",
+          "Hebrew",
+          "Pleasantness",
+          "nay-OH-mee"
+        ],
+        [
+          "Nia",
+          "Swahili / Welsh",
+          "Purpose; meanings vary by origin",
+          "NEE-uh"
+        ],
+        [
+          "Nico",
+          "Greek / Italian",
+          "Victory of the people; short form",
+          "NEE-koh"
+        ],
+        [
+          "Nora",
+          "Irish / Latin",
+          "Meanings vary by origin",
+          "NOR-uh"
+        ],
+        [
+          "Noah",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Niamh",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Nina",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Nathan",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ]
+      ]
+    },
+    {
+      "slug": "baby-names-starting-with-o",
+      "title": "Baby Names That Start With O",
+      "keyword": "baby names starting with o",
+      "description": "Browse baby names beginning with O, including traditional and nature-linked choices.",
+      "intro": "O names are less common in some regions and can offer distinctive sounds and spellings.",
+      "names": [
+        [
+          "Oliver",
+          "Latin",
+          "Olive tree",
+          "OL-ih-ver"
+        ],
+        [
+          "Orla",
+          "Irish",
+          "Golden princess",
+          "OR-lah"
+        ],
+        [
+          "Oscar",
+          "Old English / Irish",
+          "Meaning debated across origins",
+          "OS-kər"
+        ],
+        [
+          "Otto",
+          "Germanic",
+          "Wealth, fortune",
+          "OT-oh"
+        ],
+        [
+          "Olive",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Opal",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Owen",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Orion",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ]
+      ]
+    },
+    {
+      "slug": "baby-names-starting-with-p",
+      "title": "Baby Names That Start With P",
+      "keyword": "baby names starting with p",
+      "description": "Explore baby names beginning with P, with origin and pronunciation notes.",
+      "intro": "This collection includes names beginning with P from several linguistic traditions.",
+      "names": [
+        [
+          "Phoebe",
+          "Greek",
+          "Bright, radiant",
+          "FEE-bee"
+        ],
+        [
+          "Priya",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Poppy",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Peter",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Penelope",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Parker",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Paige",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Philip",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ]
+      ]
+    },
+    {
+      "slug": "baby-names-starting-with-r",
+      "title": "Baby Names That Start With R",
+      "keyword": "baby names starting with r",
+      "description": "Discover baby names beginning with R, from nature-inspired choices to established classics.",
+      "intro": "R names can sound different across languages; compare pronunciation and spelling before choosing.",
+      "names": [
+        [
+          "Rafael",
+          "Hebrew",
+          "God has healed",
+          "rah-fye-EL"
+        ],
+        [
+          "Rhea",
+          "Greek",
+          "Mythological name",
+          "REE-uh"
+        ],
+        [
+          "Ronan",
+          "Irish",
+          "Little seal",
+          "ROH-nən"
+        ],
+        [
+          "Rowan",
+          "Irish / Gaelic",
+          "Rowan tree",
+          "ROH-ən"
+        ],
+        [
+          "Ruby",
+          "Latin",
+          "Red gemstone",
+          "ROO-bee"
+        ],
+        [
+          "Rose",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "River",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Raphael",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ]
+      ]
+    },
+    {
+      "slug": "baby-names-starting-with-s",
+      "title": "Baby Names That Start With S",
+      "keyword": "baby names starting with s",
+      "description": "Explore baby names beginning with S, with cultural context and meaning notes.",
+      "intro": "S names range from short contemporary favorites to traditional names with long histories.",
+      "names": [
+        [
+          "Sage",
+          "Latin / English",
+          "Wise; also an herb",
+          "SAYJ"
+        ],
+        [
+          "Saoirse",
+          "Irish",
+          "Freedom",
+          "SEER-shuh"
+        ],
+        [
+          "Silas",
+          "Latin / Greek",
+          "Traditional origin debated",
+          "SY-ləs"
+        ],
+        [
+          "Sofia",
+          "Greek",
+          "Wisdom",
+          "soh-FEE-uh"
+        ],
+        [
+          "Samuel",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Seren",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Stella",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Sebastian",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ]
+      ]
+    },
+    {
+      "slug": "baby-names-starting-with-t",
+      "title": "Baby Names That Start With T",
+      "keyword": "baby names starting with t",
+      "description": "Browse baby names beginning with T, including classic and modern ideas.",
+      "intro": "Names beginning with T can be shared across cultures or have distinct local forms.",
+      "names": [
+        [
+          "Theo",
+          "Greek",
+          "Gift of God; short form",
+          "THEE-oh"
+        ],
+        [
+          "Theodore",
+          "Greek",
+          "Gift of God",
+          "THEE-uh-dor"
+        ],
+        [
+          "Thomas",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Talia",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Tobias",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Tessa",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Tariq",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Tatum",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ]
+      ]
+    },
+    {
+      "slug": "baby-names-starting-with-v",
+      "title": "Baby Names That Start With V",
+      "keyword": "baby names starting with v",
+      "description": "Discover baby names beginning with V, including floral and classic options.",
+      "intro": "V names can feel distinctive while drawing on familiar language roots.",
+      "names": [
+        [
+          "Violet",
+          "Latin",
+          "Violet flower",
+          "VYE-ə-lət"
+        ],
+        [
+          "Valerie",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Victor",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Vivian",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Vera",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Vincent",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Veda",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Vaughn",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ]
+      ]
+    },
+    {
+      "slug": "baby-names-starting-with-z",
+      "title": "Baby Names That Start With Z",
+      "keyword": "baby names starting with z",
+      "description": "Explore baby names beginning with Z, with pronunciation and origin notes.",
+      "intro": "Z names are distinctive in many English-speaking regions, with roots across a wide range of languages.",
+      "names": [
+        [
+          "Zara",
+          "Multiple origins",
+          "Meanings vary by language",
+          "ZAR-uh"
+        ],
+        [
+          "Zoe",
+          "Greek",
+          "Life",
+          "ZOH-ee"
+        ],
+        [
+          "Zora",
+          "Slavic",
+          "Dawn",
+          "ZOR-uh"
+        ],
+        [
+          "Zain",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Zelda",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Zayn",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Zuri",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ],
+        [
+          "Zephyr",
+          "Origin varies",
+          "Check the specific language and spelling for an established meaning",
+          "Pronunciation varies by language"
+        ]
+      ]
+    }
+  ]
+}

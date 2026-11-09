@@ -1,0 +1,4 @@
+# Build tooling and source data are not public website assets
+/data/
+/scripts/
+/wrangler.jsonc
